@@ -67,4 +67,14 @@
 
 68 Immediately Phoebus abandoned his grudge.
 
-69 
+69 The Greek host, which had nearly been destroyed, blossomed once again.
+
+70 However, Atrides' desire for Chryseis did not fade; he mourned and grieved for his lost love, feeling that he had been cheated.
+
+72 Then, he snatched Briseis from great Achilles and lightened the burden of his love by depriving another of his beloved.
+
+74 But savage Aeacides approached Atrides with his sword drawn and threatened that, if he did not return his prize, which he had fairly won, he would give Atrides a bloody death. Each man prepared himself for a duel.
+
+78 If chaste Pallas had not forced Achilles to withdraw, blind love would have left her cruel mark in the annals of Argive history.
+
+80 
