@@ -19,7 +19,10 @@
 
 22  The Myrmidons were overcome by his tears and they thought that Chryseis should be returned to her father.
 
-24  But Atrides disagreed and forced Chryses to depart from his camp,
-rejecting his *pietas*: a fierce love clung in Atrides heart of hearts. His ruinous lust denied Chryses' prayers.
+24  But Atrides disagreed and forced Chryses to depart from his camp, rejecting his *pietas*: a fierce love clung in Atrides heart of hearts. His ruinous lust denied Chryses' prayers.
 
-27 The priest 
+27 The slighted priest once again sought the temple of Phoebus; in his grief he scratched his dirty face and tore out his hair and struck his wrinkled forehead.
+
+30 When his groans subsided and his tears abated, he addressed the sacred ears of the prophetic god by saying: how does it benefit me to have worshipped you, Delphic god, or to have led a chaste life for so many years?
+
+34
