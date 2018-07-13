@@ -25,4 +25,46 @@
 
 30 When his groans subsided and his tears abated, he addressed the sacred ears of the prophetic god by saying: how does it benefit me to have worshipped you, Delphic god, or to have led a chaste life for so many years?
 
-34
+34 Why did I place the sacred fires on your altar if I, your priest, am scorned by a foreign enemy?
+
+36 See, these are the rewards I've been given in my old age.
+
+37 If I have been an acceptable servant, keep me safe as my protector.
+
+38 If otherwise, if I am paying the penalty for some harsh crime, of which I am ignorant, why does your hand hold back my further punishment?
+
+40 Draw your sacred bow and aim at me.
+
+41 At least a god will be behind my demise.
+
+41 Attack the father, the one who deserves punishment.
+
+42 Why does my daughter pay for my transgressions by enduring a life in my cruel enemy's bed?
+
+44 He plead his case.
+
+44 Moved by his priest's plea, Apollo wrought great sorrow on the Danaans by sending a plague that infected every soldier.
+
+46 The Greeks fell to ruin. There was hardly enough land for all the funeral pyres and tombs and hardly enough air for the fires.
+
+48 After the stars had been seen for the ninth night and the sun shone on the tenth day, illustrious Achilles assembled the Greek chiefs and encouraged Thestorides to reveal the causes of the evil plague.
+
+52 Then Calchas consulted the gods and found the cause of their misfortune as well as the way to end it. He feared the crowd, but with Achilles protection he said this: "Danaans, if we wish to find refuge from this pestilence, we must placate the will of wrathful Phoebus and return chaste Chryseis to her righteous father."
+
+58 He finished speaking.
+
+58 Suddenly, the king became enraged.
+
+59 He hurled bitter insults at Thestorides and called him a liar.
+
+60 Then he rebuked great Achilles, but the unconquerable hero returned in kind.
+
+62 All the others present join the fracas.
+
+62 When the shouting finally ended, the unjust son of Atreus was forced to return his unwilling bride and give Chryseis, untouched, back to her dutiful father along with many other reparations.
+
+65 Ulysses, trusted by all, placed her on his ship and brought her back to her father's care. Then, he again set sail to return to the Danaan fleet.
+
+68 Immediately Phoebus abandoned his grudge.
+
+69 
