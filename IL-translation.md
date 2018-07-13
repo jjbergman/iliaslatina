@@ -17,8 +17,9 @@
 
 22  He also offered gifts.
 
-22  The Myrmidons are overcome by his tears and they think that Chryseis should be returned to her father.
+22  The Myrmidons were overcome by his tears and they thought that Chryseis should be returned to her father.
 
-24  But Atrides disagrees and forces Chryses to depart from his camp,
-rejecting his pietas: a fierce love clung in Atrides heart of hearts. His ruinous lust denied Chryses' prayers.
+24  But Atrides disagreed and forced Chryses to depart from his camp,
+rejecting his *pietas*: a fierce love clung in Atrides heart of hearts. His ruinous lust denied Chryses' prayers.
 
+27 The priest 
