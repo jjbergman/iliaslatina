@@ -77,4 +77,24 @@
 
 78 If chaste Pallas had not forced Achilles to withdraw, blind love would have left her cruel mark in the annals of Argive history.
 
-80 
+80 Because his threats were ignored, Pelides prayed that his mother, a goddess of the sea, would not allow Plisthenides to go unpunished.
+
+83 Thetis heard her son's prayer and immediately left the sea. She came to the Myrmidon camp and warned him to refrain from any fights or contests; afterwards, she flew through the airs of heaven and carried herself into the golden stars.
+
+87 Then, although her hair was still unkempt @(need to work on how to do this line) she laid herself at the feet of king of heaven: "I come to you as a mother on behalf of her son, begging your divine will, highest father.
+
+89 Avenge me and my son for Atrides' wrongdoing; if you allow him to go unpunished for violating the love of my Achilles, all virtue will die a shameful death, conquered by lust."
+
+93 Jupiter responded: "Cast aside your sorrowful lament, goddess of the great sea, for I will fulfill your undertaking.
+
+95 Console your son's grieving heart."
+
+96 He finished.
+
+96 Thetis glided down through the gentle air of heaven and came to her father's shores and sisters' beloved waves.
+
+However, Juno was offended: "Great husband of mine," she said, "does the daughter of Doris hold so much sway, is so much owed to Achilles, @while for me, who is called your wife and also bears the sweet name of sister, you wish to shed the blood of my beloved Argives and renew the fighting spirit of the Trojans?"
+
+103 
+
+103
