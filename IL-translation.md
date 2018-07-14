@@ -6,7 +6,7 @@
 
 9   Which god forced these men to struggle in such sorrowful wrath?
 
-10  It was the child of Lato and powerful Jupiter.
+10  It was the child of Leto and powerful Jupiter.
 
 10  He sent into the Pelasgian king's heart a horrible plague, which likewise afflicted the Danaans.
 
