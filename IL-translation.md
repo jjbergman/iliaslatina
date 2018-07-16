@@ -1,29 +1,29 @@
 # Preface
 
-1   Goddess, tell me about Pelides' arrogant wrath, which wrought sorrowful deaths on the wretched Greeks and sent the brave souls of heroes down to Orcus: tell of the wrath that allowed dogs and birds to tear at the heroes' bloodless limbs and unburied bones.
+1   Goddess, tell me about Pelides' arrogant wrath, which brought about sorrowful deaths for the wretched Greeks and sent the brave souls of heroes down to Orcus: tell of the wrath that allowed dogs and birds to tear at the bloodless limbs and unburied bones of these heroes.
 
-6   The highest king agreed that the conflict had first been incited by the warring hearts of sceptered Atrides and Achilles, renowned in battle.
+6   The opinion of the highest king attributed the conflict's origin to the warring hearts of sceptered Atrides and the warrior Achilles.
 
 9   Which god forced these men to struggle in such sorrowful wrath?
 
-10  It was the child of Leto and powerful Jupiter.
+10  It was the son of Lato and powerful Jupiter.
 
-10  He sent into the Pelasgian king's heart a horrible plague, which likewise afflicted the Danaans.
+10  He infected the Pelasgian king's heart with a horrible plague, which likewise afflicted the Danaans.
 
 # ??Title for the next section
-13  One day, Chryses, wearing his sacred band on his brow, wept and mourned the fact that his daughter had been taken from him. He spent his days and nights in a state of hatred and his constant wailing filled the air.
+13  One day, Chryses, wearing his sacred band on his brow, wept and mourned the loss of his daughter, who had been taken from him. He spent his days and nights in a state of hatred, and his constant wailing filled the air.
 
-17  Because not a single day lifted this weight from him and his wailing did not allay his tears for his daughter, he sought the Danaan camp, laid himself at the feet of Atrides, and begged the gods and his wretched head of state to return his daughter, the source of his wellbeing.
+17  Because not a single day lessened his grief, and his continual wailing could not allay his tears for his daughter, he sought the Danaan camp, laid himself at the feet of Atrides, and begged the gods as well as his wretched head of state to return his daughter, who was the source of his wellbeing.
 
 22  He also offered gifts.
 
-22  The Myrmidons were overcome by his tears and they thought that Chryseis should be returned to her father.
+22  The Myrmidons were overcome by his tears and thought that Chryseis should be returned to her father.
 
 24  But Atrides disagreed and forced Chryses to depart from his camp, rejecting his *pietas*: a fierce love clung in Atrides heart of hearts. His ruinous lust denied Chryses' prayers.
 
-27 The slighted priest once again sought the temple of Phoebus; in his grief he scratched his dirty face and tore out his hair and struck his wrinkled forehead.
+27 The slighted priest once again sought the temple of Phoebus; in his grief, he scratched his dirty face, tore out his hair, and beat his old temples.
 
-30 When his groans subsided and his tears abated, he addressed the sacred ears of the prophetic god by saying: how does it benefit me to have worshipped you, Delphic god, or to have led a chaste life for so many years?
+30 When his groans subsided and his tears abated, he addressed the sacred ears of the prophetic god: how does it benefit me to have worshipped you, Delphic god, or to have led a chaste life for so many years?
 
 34 Why did I place the sacred fires on your altar if I, your priest, am scorned by a foreign enemy?
 
@@ -31,25 +31,25 @@
 
 37 If I have been an acceptable servant, keep me safe as my protector.
 
-38 If otherwise, if I am paying the penalty for some harsh crime, of which I am ignorant, why does your hand hold back my further punishment?
+38 If otherwise, if I am paying the penalty for some harsh crime, of which I am ignorant, why does your hand refrain from further punishment?
 
-40 Draw your sacred bow and aim at me.
+40 Draw your sacred bow and take aim.
 
 41 At least a god will be behind my demise.
 
 41 Attack the father, the one who deserves punishment.
 
-42 Why does my daughter pay for my transgressions by enduring a life in my cruel enemy's bed?
+42 Why does my daughter pay for my transgressions, forced to endure a life in my cruel enemy's bed?
 
 44 He plead his case.
 
 44 Moved by his priest's plea, Apollo wrought great sorrow on the Danaans by sending a plague that infected every soldier.
 
-46 The Greeks fell to ruin. There was hardly enough land for all the funeral pyres and tombs and hardly enough air for the fires.
+46 The Greeks fell to ruin. There was hardly enough land for all the funeral pyres and tombs, and hardly enough air for the fires.
 
 48 After the stars had been seen for the ninth night and the sun shone on the tenth day, illustrious Achilles assembled the Greek chiefs and encouraged Thestorides to reveal the causes of the evil plague.
 
-52 Then Calchas consulted the gods and found the cause of their misfortune as well as the way to end it. He feared the crowd, but with Achilles protection he said this: "Danaans, if we wish to find refuge from this pestilence, we must placate the will of wrathful Phoebus and return chaste Chryseis to her righteous father."
+52 Then Calchas consulted the gods and found the cause of their misfortune as well as the way to end it. He feared the crowd, but with Achilles' protection he said this: "Danaans, if we wish to find refuge from this pestilence, we must placate the will of wrathful Phoebus and return chaste Chryseis to her righteous father."
 
 58 He finished speaking.
 
@@ -57,11 +57,11 @@
 
 59 He hurled bitter insults at Thestorides and called him a liar.
 
-60 Then he rebuked great Achilles, but the unconquerable hero returned in kind.
+60 Then he rebuked great Achilles, but the unconquerable hero returned his insults.
 
 62 All the others present join the fracas.
 
-62 When the shouting finally ended, the unjust son of Atreus was forced to return his unwilling bride and give Chryseis, untouched, back to her dutiful father along with many other reparations.
+62 When the shouting finally subsided, the unjust son of Atreus was forced to return his unwilling bride and give Chryseis, untouched, back to her dutiful father, along with many other reparations.
 
 65 Ulysses, trusted by all, placed her on his ship and brought her back to her father's care. Then, he again set sail to return to the Danaan fleet.
 
@@ -79,9 +79,9 @@
 
 80 Because his threats were ignored, Pelides prayed that his mother, a goddess of the sea, would not allow Plisthenides to go unpunished.
 
-83 Thetis heard her son's prayer and immediately left the sea. She came to the Myrmidon camp and warned him to refrain from any fights or contests; afterwards, she flew through the airs of heaven and carried herself into the golden stars.
+83 Thetis heard her son's prayer and immediately left the sea. She came to the Myrmidon camp and warned him to refrain from any fights or contests; afterwards, she flew through heaven and carried herself into the golden stars.
 
-87 Then, although her hair was still unkempt @(need to work on how to do this line) she laid herself at the feet of king of heaven: "I come to you as a mother on behalf of her son, begging your divine will, highest father.
+87 Then, with her hair still unkempt, she laid herself at the feet of the king of heaven: "I come to you as a mother on behalf of her son, begging your divine power, highest father.
 
 89 Avenge me and my son for Atrides' wrongdoing; if you allow him to go unpunished for violating the love of my Achilles, all virtue will die a shameful death, conquered by lust."
 
@@ -91,15 +91,15 @@
 
 96 He finished.
 
-96 Thetis glided down through the gentle air of heaven and came to her father's shores and sisters' beloved waves.
+96 Thetis glided down through the gentle air of heaven and came @to her father's shores and sisters' beloved waves.
 
-However, Juno was offended: "Great husband of mine," she said, "does the daughter of Doris hold so much sway, is so much owed to Achilles, @while for me, who is called your wife and also bears the sweet name of sister, you wish to shed the blood of my beloved Argives and renew the fighting spirit of the Trojans?"
+98 However, Juno was offended: "Great husband of mine," she said, "does the daughter of Doris hold so much sway, is so much owed to Achilles? @But as for me, whom you call your wife and sweet sister, you wish to shed the blood of my beloved Argives and renew the fighting spirit of the Trojans?"
 
 103 Are these your gifts for me?
 
 103 Is this how much you love me?
 
-104 The angered goddess chided the Thundering god with these harsh words, but in turn she endured the reproach of the king of heaven.
+104 The angered goddess hurled harsh words at the Thundering god, but in turn she endured the reproach of the king of heaven.
 
 106 Finally, after the god of fire stepped in to settle the dispute, the great father dismissed the council from his hall.
 
@@ -109,4 +109,4 @@ However, Juno was offended: "Great husband of mine," she said, "does the daughte
 
 # Somnus's Mission
 
-111 As night fell, the stars were shining throughout the sky and humans and gods alike rested. The omnipotent father called Somnus and says this: "Go, fly through the light winds, gentlest of the gods, and seek the Argive leader's camp on swift wings. And while he is overwhelmed by the weight of your sweet sleep, relay these orders to him: "
+111 As night fell, the stars were shining throughout the sky as humans and gods alike rested. The omnipotent father called Somnus and said this: "Go, fly through the light winds, gentlest of the gods, and seek the Argive leader's camp on swift wings. And while he is overwhelmed by the weight of your sweet sleep, relay these orders to him: "
