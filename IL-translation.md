@@ -1,6 +1,6 @@
 # Preface
 
-1   Goddess, tell me about Pelides' arrogant wrath, which wrought sorrowful deaths on the wretched Greeks and sent the brave souls of heroes down to Orcus: the wrath that allowed dogs and birds to tear at the heroes' bloodless limbs and unburied bones.
+1   Goddess, tell me about Pelides' arrogant wrath, which wrought sorrowful deaths on the wretched Greeks and sent the brave souls of heroes down to Orcus: tell of the wrath that allowed dogs and birds to tear at the heroes' bloodless limbs and unburied bones.
 
 6   The highest king agreed that the conflict had first been incited by the warring hearts of sceptered Atrides and Achilles, renowned in battle.
 
@@ -95,6 +95,16 @@
 
 However, Juno was offended: "Great husband of mine," she said, "does the daughter of Doris hold so much sway, is so much owed to Achilles, @while for me, who is called your wife and also bears the sweet name of sister, you wish to shed the blood of my beloved Argives and renew the fighting spirit of the Trojans?"
 
-103 
+103 Are these your gifts for me?
 
-103
+103 Is this how much you love me?
+
+104 The angered goddess chided the Thundering god with these harsh words, but in turn she endured the reproach of the king of heaven.
+
+106 Finally, after the god of fire stepped in to settle the dispute, the great father dismissed the council from his hall.
+
+108 Meanwhile, the sun descended from Olympus and the gods and goddesses held a lavish feast to reinvigorate themselves.
+
+110 Then, they sought their bedrooms and the delightful gift of sleep.
+
+# Somnus's Mission
