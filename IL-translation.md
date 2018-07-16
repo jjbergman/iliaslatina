@@ -108,3 +108,5 @@ However, Juno was offended: "Great husband of mine," she said, "does the daughte
 110 Then, they sought their bedrooms and the delightful gift of sleep.
 
 # Somnus's Mission
+
+111 As night fell, the stars were shining throughout the sky and humans and gods alike rested. The omnipotent father called Somnus and says this: "Go, fly through the light winds, gentlest of the gods, and seek the Argive leader's camp on swift wings. And while he is overwhelmed by the weight of your sweet sleep, relay these orders to him: "
