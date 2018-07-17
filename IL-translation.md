@@ -1,24 +1,24 @@
 # Preface
 
-@1   Goddess, tell me about Pelides' arrogant wrath, which brought about sorrowful deaths for the wretched Greeks and sent the brave souls of heroes down to Orcus: tell of the wrath that allowed dogs and birds to tear at the bloodless limbs and unburied bones of these heroes.
+@1   Goddess, tell me about the wrath of arrogant Pelides, which wrought sorrowful deaths on the wretched Greeks and sent the brave souls of heroes down to Orcus and left their bloodless limbs and unburied bones for dogs and birds to rip apart.
 [superbus transferred? / brought about too weak? / why the reboot at line 4 and allowed? too free here?]
 
-@6   The opinion of the highest king attributed the conflict's origin to the warring hearts of sceptered Atrides and the warrior Achilles.
-[confio = passive of conficio / sententia x= opinion / ut primum (unusually) = "since first" / warrior too bland] 
+@6   The will of the highest king was abided, since first the warring hearts of sceptered Atrides and the renowned warrior Achilles created their feud.
+[confio = passive of conficio / sententia x= opinion / ut primum (unusually) = "since first" / warrior too bland]
 
-@9   Which god forced these men to struggle in such sorrowful wrath?
+@9   Which god forced these men to struggle in such bitter anger?
 [tristi not sorrowful here]
 
 *10  It was the son of Lato[Leto] and powerful Jupiter.
 
-*10  He infected the Pelasgian king's heart with a horrible plague, which likewise afflicted the Danaans.
+*10  He infected the Pelasgian king's heart with a horrible plague and the Danaans were also embroiled in the grave illness.
 [Try again on implicuit / sthg with gravi morbo?]
 
 # [The priest's daughter?]
-*13  One day, Chryses, wearing his sacred band on his brow, wept and mourned the loss of his daughter, who had been taken from him. He spent his days and nights in a state of hatred, and his constant wailing filled the air.
+*13  One day, Chryses, wearing his sacred band wrapped around his head, wept, mourning the loss of his daughter, who had been taken from him. He spent hated days and nights and his constant lamentations filled the air.
 ["sacred band wrapped around his head" / wept and mourned paratactic? / he is not hateful, the passage of time is / this last bit is good, changing the subject away from an abl of means: but maybe not wailing?]
 
-*17  Because not a single day lessened his grief, and his continual wailing could not allay his tears for his daughter, he sought the Danaan camp, laid himself at the feet of Atrides, and begged the gods as well as his wretched head of state to return his daughter, who was the source of his wellbeing.
+*17  Because not a single day lessened his grief, and his continual wailing could not allay his tears for his daughter, he sought the Danaan camp, prostrated himself at the feet of Atrides, and begged by the gods that the miserable king's honor compel him to return his daughter, the source of his wellbeing.
 [postquam when / could not > did not / sought? / affusus is a specific act; find out what / per = (asking while invoking/by) / miserabilis modifies...? / xwho wasx]
 
 22  He also offered gifts.
