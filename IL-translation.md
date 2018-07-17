@@ -115,4 +115,50 @@
 
 # Somnus's Mission
 
-111 As night fell, the stars were shining throughout the sky as humans and gods alike rested. The omnipotent father called Somnus and said this: "Go, fly through the light winds, gentlest of the gods, and seek the Argive leader's camp on swift wings. And while he is overwhelmed by the weight of your sweet sleep, relay these orders to him: "
+111 As night fell, the stars were shining throughout the sky as humans and gods alike rested. The omnipotent father called Somnus and said this: "Go, fly through the light winds, gentlest of the gods, and seek the Argive leader's camp on swift wings. And while he is overwhelmed by the weight of your sweet sleep, relay these orders to him: "when tomorrow's day has first brought out the Titan and chased away the night, gather your men for battle and attack the unwary enemy." (Do I need to preserve the indirect command or is imperative okay)
+
+120 Without delay, Somnus departed and flew through the air on his slender wings into Agamemnon's bed.
+
+121 Somnus laid next to him and held his body, which was overwhelmed by gentle sleep.
+
+123 The lightener of worry and burdens said this to him: "king of the Danaans, Son of Atreus, awaken and receive the instructions of the Thundering god, which I bring to you from heaven."
+
+126 When first the Titan emerges from the waves, order your allies to affix their weapons to their strong arms and seek the Ilian fields in rank and file."
+
+129 He uttered these commands and went back through the breezes whence he had just come.
+
+130 Meanwhile, the sky's fiery lantern gave light to the world.
+
+131 Still astonished by these visions, the Pelopeian hero called an assembly of his generals and explained in order the events of his dream.
+
+133 Everyone pledged their allied forces in battle and encouraged their leader.
+
+134 The king praised their brave hearts and gave equal thanks to all of them.
+
+136 Then Thersites, than whom no one uglier had come to Troy, nor any with a more reckless tongue, (could make this more idiomatic, say something like the ugliest man who came to Troy and the most reckless speaker) denied that this war should be continued and encouraged a return to their native shores. Ulysses, of illustrious counsel, chastised him and struck him with his ivory scepter.
+
+141 Then he became truly angry at the proposed alternative.
+
+142 Scarcely did a hand lack a spear as their tumult is lifted to the stars and the intensity of the fight gripped them all.
+
+144 Finally Nestor, wise in his old age, spoke his placid counsel to settle the disturbed crowd. He advised the leaders to recall the response of the oracle when they saw a serpent in a tree in Aulis consume twice four baby birds along with their mother, who weakly tried to defend against it, but became the final corpse after her children. (probably too free)
+
+151 Then the old man said this: "I am warning you and remind you, Achaeans: it was Calchas who said that in the tenth year of our labor, Ilion would fall to the conquering Greek armies."
+
+154 All agree. Nestor's wisdom is praised and the council is dismissed.
+
+155 The leader orders his men to prepare their weapons for battle, along with their minds and bodies.
+
+157 When first light dispelled the silent shadows and Titan raised his head from the waves, showing his shining rays, the harsh son of Atreus ordered his allies to arm themselves and seek the Ilian fields in military order.
+
+# Invocation of the Muses
+
+161 Now Muses - for what is unknown to you? - tell me the names of the famous leaders, their famous lineage and sweet homeland, because these are your gifts.
+
+164 Let us relate how many ships each man led to Pergamum and finish this undertaking. May Apollo be our inspiration and freely aid our work in each line.
+
+# The Catalog of Ships
+
+167 First came (or is this the noun as appositive) Peneleus and the keen warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led ten times five ships and coursed through the swelling tides using their strong rowing.
+
+171
