@@ -159,6 +159,20 @@
 
 # The Catalog of Ships
 
-167 First came (or is this the noun as appositive) Peneleus and the keen warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led ten times five ships and coursed through the swelling tides using their strong rowing.
+167 First came (or is this the noun as appositive) Peneleus and the keen warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led ten times five ships and coursed through the swelling tides using their strong oarsmen.
 
-171
+171 Then Agamemnon, born of Mycenae's walls, whom warlike Greece chose as their leader, led a hundred ships filled with armed soldiers; and the fiery Menelaus followed with twice thirty ships, as did Agapenor in his wild rage.
+
+176 Near these men was faithful Nestor, a man of wise sentiment and powerful counsel, along with his twin sons, who brought three times thirty ships armed for war.
+
+179 Schedius, a man of great virtue, and massive Epistrophus, the glory of the Myrmidons, both bulwarks in the savage war, plowed the tall waves along with forty prows, and Polypoetes and Leonteus led twice twenty ships carrying brave soldiers.
+
+184 The leaders Euryalus and Sthenelus, along with the brave soldier Tydides, cut through the sea with their strong oars; these men loaded twice forty ships with soldiers.
+
+187 Powerful Ascalaphus and Ialmenus, both keen men, filled thrice ten ships with strong oarsmen, and Ajax, the bravest of the Locrians, led twice twenty ships, as did the son of Euhaemon. They were accompanied by Achilles, the wall of the Greeks, sailing fifty ships across his mother's seas.
+
+193 Phidippus and Antiphus, the Thessalonian youth came next, leading thrice ten prows cleaving the deep sea.
+
+195 And Teucer cut through the waves with his three ships, while Tlepolemus the Rhodian took nine. Eumelus, a man of keen strength, followed these men, having set sail with one fewer ship than that of Salaminian Ajax, the son of Telamon.
+
+199
