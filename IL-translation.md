@@ -187,4 +187,10 @@
 
 215 Protesilaus and brave Podarces drove as many ships as Oileus Ajax led, all fitted for battle; and the son of Poeas brought seven armed ships. Near him followed Podalirius and Machaon, who cut through the wide sea with thrice ten prows.
 
-220 
+220 With all these men leading them, the Greeks led twice seven fewer than a twelve hundred ships to the shores of Troy.
+
+222 The men quickly put the ships ashore and took to the field when the Saturnian father sent Priam a message from Iris to warn him that the brave Pelasgians had come to wage war.
+
+225 Without delay, Hector Priamides immediately took up arms, as was his father's command, and ordered all the Trojan youth to ready for battle so he could lead them through the city's open gates.
+
+228
