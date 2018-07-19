@@ -175,4 +175,16 @@
 
 195 And Teucer cut through the waves with his three ships, while Tlepolemus the Rhodian took nine. Eumelus, a man of keen strength, followed these men, having set sail with one fewer ship than that of Salaminian Ajax, the son of Telamon.
 
-199
+199 And Prothous the Magnesian, son of Tenthredon, and also Elephenor, born in the great land of Euboea, and Meges the Dulichian, and Thoas, a man of great courage and strength, the son of Andraemon of the Aetolians, altogether led forty ships.
+
+204 And the wise man of Ithaca, Ulysses, led twice six ships, followed by Telamonian Ajax, a man of exceptional courage.
+
+206 With him came Guneus, a man of frightening strength, sailing twice eleven ships.
+
+208 Idomeneus and Meriones, both of Crete, came also, strengthened by forty ships; and Menestheus the Athenian, a man of famed heritage, led as many ships as Achilles could muster.
+
+212 Fierce Amphimachus and Thalpius, born in Elis, and Polyxenus, a man of famed courage, along with Diores, altogether loaded twice twenty ships with soldiers.
+
+215 Protesilaus and brave Podarces drove as many ships as Oileus Ajax led, all fitted for battle; and the son of Poeas brought seven armed ships. Near him followed Podalirius and Machaon, who cut through the wide sea with thrice ten prows.
+
+220 
