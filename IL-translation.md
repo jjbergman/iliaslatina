@@ -254,4 +254,6 @@
 
 306 Then Menelaus truly flew into a rage, though his hand lacked a sword, and he knocked the young Paris over and dragged his helmet to his allies, @holding it as if he had won. If Cytherea had not covered Paris in a dark mist and @broken the strong strap on his chin, that would have been Paris's last day.
 
-311 
+311 Menelaus dragged the shining golden helmet and angrily threw it to the chiefs. He then again returned to the fight and threw a huge spear with all his strength to finish off the Phrygian, but Venus snatched Paris away from his enemy and brought him into his bed, inlaid with tortoise shell.
+
+317 Then she summoned Helen from the tall walls and led her to her love, Dardanian Paris.
