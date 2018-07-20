@@ -191,6 +191,12 @@
 
 222 The men quickly put the ships ashore and took to the field when the Saturnian father sent Priam a message from Iris to warn him that the brave Pelasgians had come to wage war.
 
-225 Without delay, Hector Priamides immediately took up arms, as was his father's command, and ordered all the Trojan youth to ready for battle so he could lead them through the city's open gates.
+225 Without delay, Hector Priamides immediately took up arms, as was his father's command, and ordered all the Trojan youth to ready themselves for battle so he could lead them through the city's open gates.
 
-228
+228 A shiny golden helmet covered each side of his youthful head, a breastplate protected his chest and a shield adorned his left side. He wielded a spear in his right hand and a sword hung at his side; also, shining greaves, befitting of Hector, covered his long legs.
+
+233 A more beautiful man followed after him, who was at that time mighty in arms: the cause of the war, Paris, the calamitous ruin of his homeland. Deiphobus and Helenus and brave Polites followed as well, along with sacred Aeneas, most certainly the child of Venus, and Archelochus and savage Acamas, the sons of Antenor; indeed, both Pandarus, the noble descendant of Lycaon, and Glaucus, a man of great courage in battle, came to fight, as did Amphius and Adrastus and Asius and Pylaeus.
+
+240 Amphimachus and Nastes, each great men, also came, with the brave leaders Odius and massive Epistrophus, as did savage Euphemus and Pyraechmes, famous in his time, with whom came Mesthles and Antiphus and the great fighter Hippothous and Acamas and Pirous, together with Chromius and Ennomus, the sons of Arsinous, both of them in their prime, followed by Phorcus and great Ascanius, and also Sarpedon, the renowned offspring of Jupiter, and Coroebus, born in that famed land.
+
+250 Neptunian Troy defended herself with the help of these leaders, and would have foiled the plot of the Greeks, if not for the fates.
