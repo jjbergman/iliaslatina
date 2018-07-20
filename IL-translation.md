@@ -199,3 +199,59 @@
 240 Amphimachus and Nastes, each great men, also came, with the brave leaders Odius and massive Epistrophus, as did savage Euphemus and Pyraechmes, famous in his time, with whom came Mesthles and Antiphus and the great fighter Hippothous and Acamas and Pirous, together with Chromius and Ennomus, the sons of Arsinous, both of them in their prime, followed by Phorcus and great Ascanius, and also Sarpedon, the renowned offspring of Jupiter, and Coroebus, born in that famed land.
 
 250 Neptunian Troy defended herself with the help of these leaders, and would have foiled the plot of the Greeks, if not for the fates.
+
+# Hector Proposes a Duel
+
+252 And now both battle lines were standing in their resplendent armor, when Paris, the deadly flame and destruction of Troy, saw a fully-armed Menelaus standing in the opposing army. Paris runs back frantically to his allies as if he had seen a snake and was terrified.
+
+256 Hector saw him in his shameless disarray and said: "You, our country's eternal disgrace and our family's dishonor, why are you turning your back on this?"
+
+259 Once, you did not hesitate to violate the bed of a host, whose weapons you are fleeing and force you fear.
+
+261 Where is your courage? Where is your strength that we once knew in different competitions and games?
+
+263 Here is where you show us your character.
+
+263 Your famous beauty will not help you in battle.
+
+264 Mars likes a tough soldier.
+
+265 While you sleep with your love, we must wage war and shed our blood in our enemy's midst.
+
+267 Let unwearied Atrides fight you and match your strength on an equal field as the Danaans and Phrygians watch without any fighting.
+
+269 After a treaty is agreed upon, you must bring your force to bear against him and settle the dispute by the sword."
+
+271 He finished speaking.
+
+271 The Priamian hero said a few words in return: "why do you insult me so undeservingly, brother, pride of my country?"
+
+273 It is untrue that my spouse, my stolen luxury, is greater than the honor of my courage. I do not refuse to test my strength in battle against his, as long as my wife goes to the victor without further bloodshed."
+
+277 Hector reported this conversation; the Greeks agreed with the plan.
+
+# The Duel of Paris and Menelaus
+
+278 Immediately, Priam was summoned to carry out the proper sacrifices and seal the treaties.
+
+279 After that, each group departed, cast aside their weapons, and cleared the field.
+
+281 Meanwhile, beautiful Alexander appeared from the Trojan crowd, easily spotted because of his shield and spear.
+
+283 Menelaus stood against him, gleaming in his armor, and said "Let us begin our fight. You will no longer enjoy the company of my wife, and you will mourn the day you took her, as Jupiter is my witness."
+
+287 As soon as he had finished speaking, the bitter man rushed against his enemy.
+
+288 Paris repelled his approach with a strong blow and took a few quick step in retreat. He then threw a quivering spear from afar, but Atrides avoided it. In turn, he threw a spear which would have pierced the Phrygian thief's body, if not for the seven-fold iron mail which covered his brood chest in the back.
+
+294 There was an outcry all around; then each man stood against the other, as their helmets crashed together, their feet kicked at the other's heels, and their swords whistled and vibrated; both men were protected by their brilliant weapons and armor.
+
+298 They were not unlike strong bulls, who wage war over a pretty mate and, as they fight, their loud mooing fills the air.
+
+300 For a long time they used their rough swords to try to cut the other man. But, when Atrides remembered his stolen bride, he closed in and overwhelmed the Dardanian youth.
+
+302 Paris retreated backwards as Menelaus threatened him from above with his swordplay. However, his splendid sword shattered when he struck the edge of Paris's helmet. The Greeks groaned in dismay.
+
+306 Then Menelaus truly flew into a rage, though his hand lacked a sword, and he knocked the young Paris over and dragged his helmet to his allies, @holding it as if he had won. If Cytherea had not covered Paris in a dark mist and @broken the strong strap on his chin, that would have been Paris's last day.
+
+311 
