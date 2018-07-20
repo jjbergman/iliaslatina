@@ -4,7 +4,7 @@
 [superbus transferred? / brought about too weak? / why the reboot at line 4 and allowed? too free here?]
 
 @6   The will of the highest king was abided, since first the warring hearts of sceptered Atrides and the renowned warrior Achilles created their feud.
-[confio = passive of conficio / sententia x= opinion / ut primum (unusually) = "since first" / warrior too bland]
+[ut primum (unusually) = "since first"]
 
 @9   Which god forced these men to struggle in such bitter anger?
 [tristi not sorrowful here]
@@ -18,8 +18,7 @@
 *13  One day, Chryses, wearing his sacred band wrapped around his head, wept, mourning the loss of his daughter, who had been taken from him. He spent hated days and nights and his constant lamentations filled the air.
 ["sacred band wrapped around his head" / wept and mourned paratactic? / he is not hateful, the passage of time is / this last bit is good, changing the subject away from an abl of means: but maybe not wailing?]
 
-*17  Because not a single day lessened his grief, and his continual wailing could not allay his tears for his daughter, he sought the Danaan camp, prostrated himself at the feet of Atrides, and begged by the gods that the miserable king's honor compel him to return his daughter, the source of his wellbeing.
-[postquam when / could not > did not / sought? / affusus is a specific act; find out what / per = (asking while invoking/by) / miserabilis modifies...? / xwho wasx]
+*17  Because not a single day lessened his grief, and his continual wailing could not allay his tears for his daughter, he sought the Danaan camp, prostrated himself at the feet of Atrides, and begged by the gods, in his misery, that the king's honor compel him to return his daughter, the source of his wellbeing.
 
 22  He also offered gifts.
 
@@ -45,9 +44,9 @@
 
 41 Attack the father, the one who deserves punishment.
 
-42 Why does my daughter pay for my transgressions, forced to endure a life in my cruel enemy's bed?
+42 Why is my daughter paying for my transgressions? Why is she forced to endure a life in my cruel enemy's bed?
 
-44 He plead his case.
+44 He pled his case.
 
 44 Moved by his priest's plea, Apollo wrought great sorrow on the Danaans by sending a plague that infected every soldier.
 
@@ -111,7 +110,7 @@
 
 108 Meanwhile, the sun descended from Olympus and the gods and goddesses held a lavish feast to reinvigorate themselves.
 
-110 Then, they sought their bedrooms and the delightful gift of sleep.
+110 Then, they headed  their bedrooms and the delightful gift of sleep.
 
 # Somnus's Mission
 
@@ -159,17 +158,17 @@
 
 # The Catalog of Ships
 
-167 First came (or is this the noun as appositive) Peneleus and the keen warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led ten times five ships and coursed through the swelling tides using their strong oarsmen.
+167 First came (or is this the noun as appositive) Peneleus and the keen warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led fifty ships and coursed through the swelling tides using their strong oarsmen.
 
-171 Then Agamemnon, born of Mycenae's walls, whom warlike Greece chose as their leader, led a hundred ships filled with armed soldiers; and the fiery Menelaus followed with twice thirty ships, as did Agapenor in his wild rage.
+171 Then Agamemnon, born of Mycenae's walls, whom warlike Greece chose as their leader, led a hundred ships filled with armed soldiers; and the fiery Menelaus followed with sixty ships, as did Agapenor in his wild rage.
 
-176 Near these men was faithful Nestor, a man of wise sentiment and powerful counsel, along with his twin sons, who brought three times thirty ships armed for war.
+176 Near these men was faithful Nestor, a man of wise sentiment and powerful counsel, along with his twin sons, who brought ninety ships armed for war.
 
-179 Schedius, a man of great virtue, and massive Epistrophus, the glory of the Myrmidons, both bulwarks in the savage war, plowed the tall waves along with forty prows, and Polypoetes and Leonteus led twice twenty ships carrying brave soldiers.
+179 Schedius, a man of great virtue, and massive Epistrophus, the glory of the Myrmidons, both bulwarks in the savage war, plowed the tall waves along with forty prows, and Polypoetes and Leonteus led forty ships carrying brave soldiers.
 
-184 The leaders Euryalus and Sthenelus, along with the brave soldier Tydides, cut through the sea with their strong oars; these men loaded twice forty ships with soldiers.
+184 The leaders Euryalus and Sthenelus, along with the brave soldier Tydides, cut through the sea with their strong oars; these men loaded eighty ships with soldiers.
 
-187 Powerful Ascalaphus and Ialmenus, both keen men, filled thrice ten ships with strong oarsmen, and Ajax, the bravest of the Locrians, led twice twenty ships, as did the son of Euhaemon. They were accompanied by Achilles, the wall of the Greeks, sailing fifty ships across his mother's seas.
+187 Powerful Ascalaphus and Ialmenus, both keen men, filled thirty ships with strong oarsmen, and Ajax, the bravest of the Locrians, led twice twenty ships, as did the son of Euhaemon. They were accompanied by Achilles, the wall of the Greeks, sailing fifty ships across his mother's seas.
 
 193 Phidippus and Antiphus, the Thessalonian youth came next, leading thrice ten prows cleaving the deep sea.
 
@@ -187,7 +186,7 @@
 
 215 Protesilaus and brave Podarces drove as many ships as Oileus Ajax led, all fitted for battle; and the son of Poeas brought seven armed ships. Near him followed Podalirius and Machaon, who cut through the wide sea with thrice ten prows.
 
-220 With all these men leading them, the Greeks led twice seven fewer than a twelve hundred ships to the shores of Troy.
+220 With all these men leading them, the Greeks led fourteen fewer than twelve hundred ships to the shores of Troy.
 
 222 The men quickly put the ships ashore and took to the field when the Saturnian father sent Priam a message from Iris to warn him that the brave Pelasgians had come to wage war.
 
