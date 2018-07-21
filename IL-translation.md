@@ -257,3 +257,27 @@
 311 Menelaus dragged the shining golden helmet and angrily threw it to the chiefs. He then again returned to the fight and threw a huge spear with all his strength to finish off the Phrygian, but Venus snatched Paris away from his enemy and brought him into his bed, inlaid with tortoise shell.
 
 317 Then she summoned Helen from the tall walls and led her to her love, Dardanian Paris.
+
+319 When Helen saw him, she said: "Paris, my love, have you come to me a loser in the fight against my former spouse?"
+
+321 I saw it happen and was ashamed to see when violent Atrides took hold of you and dragged you around and soiled your hair in the Ilian dust.
+
+324 Miserable me! I feared that his Doric sword would bring an end to our kisses; my mind was driven insane, all color fled from my face and my blood left my limbs.
+
+327 Who persuaded you to go up against savage Atrides?
+
+328 Or had the widespread fame of his courage in battle not yet reached your ears?
+
+329 I am telling you, you should not wish to entrust your fate to his hand. @(What to do with inique)
+
+331 She said this as large tears flooded her face.
+
+332 Gloomy Alexander replied: "Atrides did not defeat me, O my love, but rather the wrath of chaste Pallas."
+
+334 Soon you will see, he will shamefully succumb to my strength, and Cytherea will aid me in this endeavor.
+
+336 After that, they mutually embraced and he lay with her, the child of the swan; she received his love and that of Troy @(Troiae) with an open bosom
+
+339 Meanwhile, Menelaus looked for Alexander among the Trojans and carried himself as if he had won.
+
+341 His brother helps him while rousing the allied troops for war. He yelled harsh words at the beaten Phrygians, claiming that the conditions of the battle should be observed and Helen should be returned.
