@@ -281,3 +281,31 @@
 339 Meanwhile, Menelaus looked for Alexander among the Trojans and carried himself as if he had won.
 
 341 His brother helps him while rousing the allied troops for war. He yelled harsh words at the beaten Phrygians, claiming that the conditions of the battle should be observed and Helen should be returned.
+
+344 While the leaders continued to argue amongst themselves, the omnipotent king of Olympus held a council meeting. Then, Pandarus drew his bow and ended the truce, seeking you, Menelaus; the flying arrow cut into his side and cut his reinforced iron tunic.
+
+349 Atrides let out a groan and left the field to go to the safety of the camp. There, the young Podalirius, using the knowledge handed down from his father, healed Menelaus with Paeonian herbs and sent him back to the horrifying and bloody battle.
+
+353 Agamemnon's wrath roused his brave troops for battle as their communal grief compelled them to fight.
+
+355 A great battle arose and much blood was shed on both sides. Bodies were scattered across the whole field as throngs of Trojans and Greeks were killed in turn. There was no rest for the men: Mars' cries could be heard everywhere as showers of spears flew in all directions.
+
+360 Thalysiades was cut down by the harsh sword of Antilochus and plunged into the realm of shadows, leaving the pleasing world of light.
+
+362 Then Telamonian Ajax attacked Anthemion's son, who was pursuing the Greeks from behind with all his strength, and pierced his chest using his hardened spear.
+
+365 The son of Anthemion vomited purple guts mixed with blood and began to cry as he passed away. @(Should this be riget? Like hardened? Or is he crying?)
+
+366 Then Antiphus exerted all the force of his body to hurl a spear at Aeacides; however, the spear wandered from its intended enemy and struck a different one, piercing Leucon's groin.
+
+370 This unlucky man was laid low by the grievous wound and, while he lay dying, he chewed on the green grass.
+
+372 Unwearied Atrides was moved by his friend's death. He attacked Democoon and pierced his temples with his wooden spear. The wild son of Atreus drew his sword from its sheath. Democoon fell to his attacks and as he lay dying on his back, he beat his head against the ground.
+
+377 Then Pirous, the son of Imbrasus, threw a huge rock at Amaryncides, which knocked him down and handed him over to silent death; but while he eagerly tried to plunder the young man's spoils, a spear came from above that was sent by the hand of Thoas. The spear pierced Pirous' shoulders and went straight through his strong chest.
+
+382 He fell on his face as he vomited warm blood and trembled while he lay on top of his weapons.
+
+384 Everywhere the Dardanian fields were wet with blood. The rivers ran red with blood likewise.
+
+385 Both armies raged as they fought in the turmoil. First the courage of the Trojans, then that of the Greeks became greater, as both sides desired sweet victory through any means necessary.
