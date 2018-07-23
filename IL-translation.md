@@ -256,6 +256,8 @@
 
 311 Menelaus dragged the shining golden helmet and angrily threw it to the chiefs. He then again returned to the fight and threw a huge spear with all his strength to finish off the Phrygian, but Venus snatched Paris away from his enemy and brought him into his bed, inlaid with tortoise shell.
 
+# Paris and Helen commiserate
+
 317 Then she summoned Helen from the tall walls and led her to her love, Dardanian Paris.
 
 319 When Helen saw him, she said: "Paris, my love, have you come to me a loser in the fight against my former spouse?"
@@ -277,6 +279,8 @@
 334 Soon you will see, he will shamefully succumb to my strength, and Cytherea will aid me in this endeavor.
 
 336 After that, they mutually embraced and he lay with her, the child of the swan; she received his love and that of Troy @(Troiae) with an open bosom
+
+# The fighting resumes
 
 339 Meanwhile, Menelaus looked for Alexander among the Trojans and carried himself as if he had won.
 
@@ -309,3 +313,27 @@
 384 Everywhere the Dardanian fields were wet with blood. The rivers ran red with blood likewise.
 
 385 Both armies raged as they fought in the turmoil. First the courage of the Trojans, then that of the Greeks became greater, as both sides desired sweet victory through any means necessary.
+
+# The aristeia of Diomedes
+
+389 Then, after Tydides saw from afar that the Greek troops were wavering and Mars was growing in strength, he rushed into the middle of the fighting, where the greater part of the enemy were, and he cut down their muddled ranks in a massacre.
+
+393 He savagely brandished his sword and spear in all directions.
+
+394 Warlike Pallas, who was nearby, aided his ardent attacks with a fiery passion. She granted the young man both courage and strength.
+
+396 As a savage lioness is driven by hunger when she sees a herd of cattle, and charges into the herd to tear at their exposed bodies, so did the Calydonian hero charge into the enemy lines. The warlike virgin goddess used her divine power to keep him safe, warning him when danger arose.
+
+401 As the Phrygians turned back and fled, Tydides pursued the retreating troops and trampled the piled masses of his expiring foes.
+
+403 While he wrathfully struck down his enemy, in his rage he saw the sons of Dares, Phegeus and also Idaeus, standing among his adversaries. Phegeus attacked him first with his weighted spear, but Tydides’ shield repelled the blow and the spear, having missed its mark, stuck into the ground.
+
+407 Without delay, Tydides hurled a massive javelin with all his strength and pierced Phegeus’ chest: the spear ran through his whole body, sticking through his chest and his shoulders.
+
+411 When Phegeus’s brother saw him spouting a river of warm blood and rolling his eyes and breathing his last, he drew his sword and swiftly flew to defend his brother’s fate.
+
+415 But, Idaeus was not able to endure the force nor the mighty attacks of savage Tydides, @and yet he tried to defend himself. (what to do with tamen)
+
+417 As when a bird sees a hawk tearing and mutilating her child’s body, but is unable to strike back, and in her distress is not strong enough to aid or save her offspring, so she beats her breast with her weak wings, Idaeus looked on as his enemy grew arrogant because of his brother’s death. He was unable to run to the aid of his brother, and if he had not yielded, he would have been killed by the same hand.
+
+424
