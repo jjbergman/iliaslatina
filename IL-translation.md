@@ -348,6 +348,22 @@
 
 433 Then, looking terrifying in his armor, Eurypylus cut down Hypsenor as he attacked, and he stripped the young man of his life and his equipment alike.
 
-# Diomedes takes on a goddess
+# Diomedes takes on Pandarus and Aeneas
 
-436
+436 Pandarus came forth from another part of the field with his bow already drawn. He looked for Tydides among the vast armies; Pandarus saw him cutting down the bodies of Trojan soldiers and he aimed a deadly arrow from his taut bow which grazed the top of Tydides' shoulder.
+
+441 Then the Calydonian youth became truly enraged and carried himself into the middle of the fighting, like a savage lion, as he cut down Astynous and also great Hypiron- the first he killed in hand to hand swordfighting and the second with his javelin from afar.
+
+445 Then he attacked Polyidon and Abas using his spear, as well as Xanthus, who was famous in battle, and Thoon, who was an immense man.
+
+447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon with quick spearwork and likewise sent them to Tartarus.
+
+449 You also, Pandarus, were laid low by the hand of Tydides and received a gruesome wound that joined the right side of your nose to your brow.
+
+452 His brains seeped out, since they had been torn out with part of his helmet, as Tydides cut and stabbed his bones as well.
+
+454 And now Aeneas and the Calydonian hero pitted their force against each other by throwing spears at each other from close by.
+
+456 While they both attempted to seek an opening to strike with their swords, they would retreat backwards and then attack once more.
+
+458
