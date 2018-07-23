@@ -366,4 +366,16 @@
 
 456 While they both attempted to seek an opening to strike with their swords, they would retreat backwards and then attack once more.
 
-458
+458 After each man had stood tall for a long time, and great Tydides could not see how he could injure Aeneas with his attacks, Tydides lifted a massive rock, which was sitting by chance in the middle of the field and would have taken twelve young men to barely lift from the ground, and threw it with all his strength at Aeneas.
+
+463 He fell to the ground in his full armor, then Venus, his mother, glided down through the heavenly air and took him from the field, covering his body with a dark fog.
+
+466 Oenides could not bear this, so he went through the mist and ardently attacked Venus. In his demented state he could not see an opportunity to strike Aeneas, but he saw Venus's heavenly hand and wounded it with his merely human spear.
+
+470 Cytherea was wounded, so she abandoned the earth and returned to heaven, where she complained about her injury to her heavenly mother.
+
+472 Trojan Apollo saved Dardanian Aeneas, then roused his courage and sent him back again to fight.
+
+474 Everywhere the battle lines fought on, as the air became thick with dust and grew loud from the horrible cries of the soldiers.
+
+476
