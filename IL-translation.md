@@ -336,4 +336,16 @@
 
 417 As when a bird sees a hawk tearing and mutilating her child’s body, but is unable to strike back, and in her distress is not strong enough to aid or save her offspring, so she beats her breast with her weak wings, Idaeus looked on as his enemy grew arrogant because of his brother’s death. He was unable to run to the aid of his brother, and if he had not yielded, he would have been killed by the same hand.
 
+# The battle rages on
+
 424
+
+426
+
+429
+
+432
+
+433
+
+# Diomedes takes on a goddess
