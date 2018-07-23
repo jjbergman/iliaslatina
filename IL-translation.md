@@ -338,14 +338,16 @@
 
 # The battle rages on
 
-424
+424 The other son of Atreus attacked the Teucri with no less fury as he pursued the Trojan lines and sent many men to their grave by his sword.
 
-426
+426 Unlucky Odius, led by unkind fate, came to attack him, but Atrides hurled a spear which struck him and pierced through his shoulders.
 
-429
+429 Idomeneus then attacked Phaestus the Maeonian, who was running to attack him from the enemy lines. After Idomeneus happily killed him, he sent Strophius' son down to the Stygian realm as well.
 
-432
+432 Meriones hurled a spear which struck down Phereclus, as Meges did to Pedaeus.
 
-433
+433 Then, looking terrifying in his armor, Eurypylus cut down Hypsenor as he attacked, and he stripped the young man of his life and his equipment alike.
 
 # Diomedes takes on a goddess
+
+436
