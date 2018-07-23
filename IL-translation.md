@@ -356,7 +356,7 @@
 
 445 Then he attacked Polyidon and Abas using his spear, as well as Xanthus, who was famous in battle, and Thoon, who was an immense man.
 
-447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon with quick spearwork and likewise sent them to Tartarus.
+447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon with his swift spearwork and sent them to Tartarus as well.
 
 449 You also, Pandarus, were laid low by the hand of Tydides and received a gruesome wound that joined the right side of your nose to your brow.
 
@@ -378,4 +378,14 @@
 
 474 Everywhere the battle lines fought on, as the air became thick with dust and grew loud from the horrible cries of the soldiers.
 
-476
+476 Then, one man was knocked to the ground and trampled by a swift chariot and the hooves of horses. Another was pierced by a flying spear and fell off his horse. @(What to do with tergo)
+
+479 His head was chopped off and rolled away from his neck; his brains seeped from his head as he lay dead on top of his weapons.
+
+482 The ground ran red with blood and the fields became wet from all the sweat.
+
+483 Meanwhile, the handsome son of Venus leapt forth and attacked the crowded Greek troops. He mowed and cut down their exposed flank across the whole line and created more deadly duels.
+
+486 Hector, the bravest of the Phrygians and their one hope, did not hold back from slaughtering and turning back the Greek troops.
+
+488 Like a wolf when it sees sheep in an open field, and neither the shepherd nor his dogs frighten him;
