@@ -388,4 +388,14 @@
 
 486 Hector, the bravest of the Phrygians and their one hope, did not hold back from slaughtering and turning back the Greek troops.
 
-488 Like a wolf when it sees sheep in an open field, and neither the shepherd nor his dogs frighten him;
+488 Like a wolf when it sees sheep in an open field, and neither the shepherd nor his dogs frighten him, so he growls hungrily, ignores all else, and rushes eagerly into the middle of the herd, no differently @(how to finish this metaphor, haud secus) did Hector attack the Danaans and terrify them by waving his bloody sword.
+
+493 The Greek lines faltered as the Phyrgians fiercely press on with increased courage.
+
+494 Victory doubles their efforts.
+
+495 When he saw his allies losing the deadly battle, the exalted king of the Danaans flew on horseback into the thicket, encouraging his leaders and reaffirming their courage in the battle.
+
+498 Soon he boldly carried himself into the middle of the enemy with his sword drawn and split the opposing lines.
+
+500
