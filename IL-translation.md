@@ -386,6 +386,8 @@
 
 483 Meanwhile, the handsome son of Venus leapt forth and attacked the crowded Greek troops. He mowed and cut down their exposed flank across the whole line and created more deadly duels.
 
+# The battle continues
+
 486 Hector, the bravest of the Phrygians and their one hope, did not hold back from slaughtering and turning back the Greek troops.
 
 488 Like a wolf when it sees sheep in an open field, and neither the shepherd nor his dogs frighten him, so he growls hungrily, ignores all else, and rushes eagerly into the middle of the herd, no differently @(how to finish this metaphor, haud secus) did Hector attack the Danaans and terrify them by waving his bloody sword.
@@ -430,13 +432,15 @@
 
 542 The Danaans pressed on as the Trojan youth retreated and tried to cover their rear.
 
+# Hector appeases Pallas Athena while Glaucus and Diomedes converse
+
 543 Mars-like Hector realized that the gods were fighting for the Greeks and the Trojan forces were being subdued by the will of the warlike virgin goddess. Hector returned at once to the walls and ordered that Hecuba be called to placate the divine will of the goddess. @(not exactly the translation but makes more sense story wise)
 
 548 Immediately the Trojans ascended to the unwed goddess's fortified citadel.
 
 549 They placed sacred wreaths on her altar and, as is customary, sacrificed the consecrated animals.
 
-551 @(Need to work on whole sentence. WHo is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name and family, who he is and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you rushing to me? What reason compels you, accursed man, to come so furiously against me, despite your unequal strength?"
+551 @(Need to work on whole sentence. Who is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name and family, who he is and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you rushing to me? What reason compels you, accursed man, to come so furiously against me, despite your unequal strength?"
 
 559 You see before you the arms of a visitor to your land, who wounded Venus's hand and injured Mars in our last duel.
 
@@ -446,4 +450,44 @@
 
 564 Meanwhile, Andromache, the faithful wife of Hector, wanted to speak with him as she held her little son Astynax on her chest. While the great hero asked for his little kisses, the child seemed terrified and turned his shy face back to his mother's breast because he was hiding from Hector's frightening helm and flowing crest.
 
-570 When Hector took the bronze off, uncovering his head, immediately he hugged the child in both his arms and raised his hands, saying: "I pray, O great father, that my son, for whom I worship your holiness, will follow the example of his father's courage from his early years onward."
+570 When Hector took the bronze off, uncovering his head, immediately he hugged the child in both his arms and raised his hands, saying: "I pray, O great father, that my son, for whom I worship your holiness, will follow the example of his father's courage from his early years and for the rest of his life."
+
+# Hector and Ajax duel
+
+575 The fierce warrior said these things and went through the open gates and out to battle along with Paris.
+
+576 When he came into battle, immediately great Hector proceeded into the middle of the fray and challenged the Greek leaders, because he had unconquerable strength.
+
+579 Without delay, wily Ulysses the deceiver, and fierce Idomeneus and Meriones, famous because of his father's lineage, and the savage son of Atreus, who was the leader of the Greeks, and the two Ajaxes, and beautiful Eurypylus in his famous arms, and Thoas, son of great Andraemon, and he who humiliated Venus by inflicting her hand with a wound, all stepped forth; but Achilles, the terror of the Trojans, was absent as he played the sweet lyre to assuage the harsh loss of his beloved.
+
+587 Their lots were cast into king Atrides' gilded helmet and great Ajax was chosen. Ajax and Hector began their fight by throwing spears at each other.
+
+590 Then they drew their stiff swords and settled the dispute with their fierce strength. They each looked for openings and tried to attack the other's back, but they each repelled the strong attacks with their mighty shields.
+
+593 They shouted to the heavens and filled the air with their cries.
+
+594 Not even boars can stimulate their anger with such passion and roar from their great chests, then attack the strong backside of their enemy with their tusks and foam at the mouth once more, compared to Hector and Ajax as they successively swung their swords and wounded the other. @ (work on this whole sentence, how to construe metaphor)
+
+599 There appeared smoky clouds of dust, great flashes of light, and flames; the woods become loud from the noise.
+
+601 The son of Priam and fiery Ajax fought with strength of that kind.
+
+602 Finally, Telamonian Ajax's spear and courage went into a fury as he took aim at the great warrior Hector. He saw that Hector's neck lay exposed and aimed his gleaming sword there.
+
+605 Clever Hector saw the attack coming, protected his exposed side, and blocked Ajax's sword with his shield.
+
+607 But his nimble sword glanced off the top of the shield grazed his neck, slightly wounding him.
+
+609 The son of Priam began to fight more fiercely, again rising against his enemy. However, this time he attacked the son of Telamon not with his sword, but by throwing a massive rock.
+
+611 But fierce Ajax repelled the strong blow with his seven-layered shield and struck down the young warrior with the same rock.
+
+614 Apollo, who was hostile to the Greeks, removed him from the battle and renewed his strength; then, they again returned to the fight and drew their swords, when weary Titan began to drive his fiery chariot into the sea. Night began to take over the sky.
+
+618 Men are sent to pull both of the fighters apart from their duel. They both quickly lay aside their animosity.
+
+620 Then Hector, the greatest warrior, said "which land, which parents gave birth to you? You are the noble and glorious offspring of a great people."
+
+623 In return, Telamonian Ajax was prepared to say: "You see before you the son of Telamon and my mother Hesiona; my house is a noble one and my family is famous for its stock."
+
+626
