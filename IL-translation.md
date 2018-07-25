@@ -398,4 +398,44 @@
 
 498 Soon he boldly carried himself into the middle of the enemy with his sword drawn and split the opposing lines.
 
-500
+500 Like an African lion, which rejoices @(know its joyous herds but this makes more sense to me as transferred) when it sees a far off herd of cows that are grazing on the green grass, then raises his mane and puffs his chest and, because he is thirsting for their blood, runs into the middle of the flock, the savage son of Atreus went into the enemy lines and repulsed the hostile Phrygian troops with his spear.
+
+506 Their leader's visible example of courage raised the spirits of the Greeks and inspired the soldiers' tiring arms.
+
+508 The Teucri were routed and the Danaans rejoiced.
+
+509 Finally Atrides saw Aeneas heading toward him on his chariot.
+
+510 He drew his sword and prepared to run at him. He hurled a spear with as much strength as rage can give, but it missed his chest and instead pierced deep into the chariot driver's stomach.
+
+514 He fell down from the force of the blow with the reins, which caused him to turn the wheel as warm blood poured from him.
+
+516 Bold Aeneas cried out in anguish and jumped off the tall chariot. He struck and killed Crethon and Orsilochus in hand to hand combat. After their deaths, Menelaus conquered the leader of the Paphlagonians, and Antilochus killed Mydon.
+
+520 After that, Jupiter's famous son Sarpedon joined the battle, bringing his deadly force with him.
+
+522 Unlucky Tlepolemus, the son of great Hercules, fought him in with unequal arms, and neither his father's strength nor his many labors were able to save him. He fell, and surrendered his weak spirit from his body.
+
+526 Sarpedon had been wounded, so he retreated from the heat of battle. Ulysses, the wily trickster, replaced him and killed seven of the bravest young men of Troy.
+
+529 On one side fought the great warrior Hector, the best of his country, and on the other fought Tydides.
+
+530 On both sides there are bodies scattered throughout the fields and the meadows were wet with blood.
+
+532 Mars the powerful fought against chaste Pallas. He moved his great shield in defense, but the sacred virgin pushed it aside and cut him with the very tip of her spear. She compelled Mars, who was stupefied at his loss, to return to heaven at once.
+
+536 There, he complained about his wounds to the divine king and endured the abuse of the almighty father.
+
+538 Meanwhile, Ajax put an end to Acamantes, despite his great strength. Menelaus captured monstrous Adrastus, tied his hands behind his back, and took him back to the fleet as a splendid trophy, since Menelaus had taken him from the enemy by force.
+
+542 The Danaans pressed on as the Trojan youth retreated and tried to cover their rear.
+
+543 Mars-like Hector realized that the gods were fighting for the Greeks and the Trojan forces were being subdued by the will of the warlike virgin goddess. Hector returned at once to the walls and ordered that Hecuba be called to placate the divine will of the goddess. @(not exactly the translation but makes more sense story wise)
+
+548 Immediately the Trojans ascended to the unwed goddess's fortified citadel.
+
+549 They placed sacred wreaths on her altar and, as is customary, sacrificed the consecrated animals.
+
+551 @(Need to work on whole sentence. WHo is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name and family, who he is and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you rushing to me? What reason compels you, accursed man, to come so furiously against me, despite your unequal strength?"
+
+559
