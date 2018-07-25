@@ -438,4 +438,12 @@
 
 551 @(Need to work on whole sentence. WHo is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name and family, who he is and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you rushing to me? What reason compels you, accursed man, to come so furiously against me, despite your unequal strength?"
 
-559
+559 You see before you the arms of a visitor to your land, who wounded Venus's hand and injured Mars in our last duel.
+
+561 Restrain your fierce pride and lay down your hostile weapons."
+
+562 After these words were said, they both did not wish to fight. They exchanged shields and left behind any animosity.
+
+564 Meanwhile, Andromache, the faithful wife of Hector, wanted to speak with him as she held her little son Astynax on her chest. While the great hero asked for his little kisses, the child seemed terrified and turned his shy face back to his mother's breast because he was hiding from Hector's frightening helm and flowing crest.
+
+570 When Hector took the bronze off, uncovering his head, immediately he hugged the child in both his arms and raised his hands, saying: "I pray, O great father, that my son, for whom I worship your holiness, will follow the example of his father's courage from his early years onward."
