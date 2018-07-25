@@ -490,4 +490,20 @@
 
 623 In return, Telamonian Ajax was prepared to say: "You see before you the son of Telamon and my mother Hesiona; my house is a noble one and my family is famous for its stock."
 
-626
+626 As Hector recalled Hesiona's name and deeds, he said: "let us end our fight, since we share common blood," and he first gives Aeacides a golden sword. In return, Hector received the engraved belt that the warrior Ajax was wearing.
+
+631 After that, the Greek and Trojan crowds immediately departed as dark night covered the sky in darkness.
+
+633 They threw a lavish banquet and drank the liquor of Bacchus to their satisfaction. They then eagerly surrendered themselves to sweet sleep.
+
+635 Afterwards, when Aurora had first chased away the stars, the Phrygians held a meeting.
+
+636 Then great Hector, remembering how many of his friends had died the day before, urged that Helen be returned to the unconquerable Greeks along with gifts that might appease Menelaus's harsh rage; everyone agrees.
+
+640 Then, Idaeus, the messenger of the Trojans, brought the terms to the savage son of Atreus; but he did not agree to the gifts and would not listen to his words; he ordered Idaeus to depart from his camp.
+
+644 He obeyed and returned to the Trojan camp, since he had been scorned by the harsh enemy. @(Can't remember what troica is)
+
+646 Meanwhile, the Danaans mourned their dead and built massive pyres. They placed all of the strong bodies of their fallen allies on the flames.
+
+649 Then they rebuilt the trenches and reinforced the oak wall.
