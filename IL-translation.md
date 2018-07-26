@@ -496,6 +496,8 @@
 
 633 They threw a lavish banquet and drank the liquor of Bacchus to their satisfaction. They then eagerly surrendered themselves to sweet sleep.
 
+# The Trojans propose a truce
+
 635 Afterwards, when Aurora had first chased away the stars, the Phrygians held a meeting.
 
 636 Then great Hector, remembering how many of his friends had died the day before, urged that Helen be returned to the unconquerable Greeks along with gifts that might appease Menelaus's harsh rage; everyone agrees.
@@ -507,3 +509,41 @@
 646 Meanwhile, the Danaans mourned their dead and built massive pyres. They placed all of the strong bodies of their fallen allies on the flames.
 
 649 Then they rebuilt the trenches and reinforced the oak wall.
+
+# Jupiter weighs the fates
+
+650 As Titan's shining rays first brought light to the world, Jupiter called a council of the gods and warned them all not to go against his command that they not fight.
+
+653 He himself then glided down through the heavenly air and sat down on shadowy Mt. Ida.
+
+655 Then, he looked at the Trojan lines and held the golden scales, currently of equal weight, in his powerful right hand. He weighed the harsh fate of the Phrygians and the misfortunes of the Achaeans and found that the Greek calamities while waging grave war outweighed that of the Trojans. @ (still praeponderat gives me trouble. NOt sure exactly what this sentence says.)
+
+# The Trojans attack the Greek camp
+
+659 Meanwhile, Priamides was riled up and attacked the Danaans in all his fury. He heavily oppressed them with all his strength, by all means the lone glory of the Phrygian people.
+
+661 The Achaeans were thrown into turmoil and the Greek camp was filled by the commotion.
+
+663 Atrides was also enclosed within the walls and encouraged his allies to harden their wilting resolve in battle.
+
+665 Tydides first burst forth with fiery arms and went like a great whirlwind into the middle of the enemy.
+
+667 Ill-fated Agelaus ran to meet him, brandishing a huge spear, but the great hero attacked him and thrust his sword through his stomach.
+
+670 Then, Teucer was able to drive the Phrygians back, since he was defended by Ajax's mighty arms. He swiftly scattered arrows on the Trojan rear.
+
+672 He vitally wounded fierce Gorgythion as well.
+
+673 Then, he went to the other parts of the battle and killed proud Hector's charioteer, but the Trojan hero grabbed a rock and crushed him, since he was unprotected after he put down his bow. @(Not sure if Hector lets loose a bow or this is what it means. Excusso arcu is the issue)
+
+676 His faithful comrades take him away from the bloodshed and support his faltering body.
+
+677 Hector wildly ran amok and terrified the enemy's lines with his violent sting.
+
+679 The Danaans were thrown into confusion by the deaths of their men and turned back. The troops swiftly fled to their camp and reinforced the gates by putting down more oak.
+
+682 But the Phrygians began siege, since the Greeks were trapped within their ramparts. They keep watch on the walls and set them on fire.
+
+684 The rest of the Trojan youth spread themselves out in the fields and indulged in wine to relax their minds from worry.
+
+686 
