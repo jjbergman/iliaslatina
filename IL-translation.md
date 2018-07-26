@@ -546,4 +546,18 @@
 
 684 The rest of the Trojan youth spread themselves out in the fields and indulged in wine to relax their minds from worry.
 
-686 
+686 The Greek leaders were so alarmed by their crisis that they could neither eat nor rest. Instead, they miserably lamented their fate.
+
+688 Then, at the behest of Nestor, they sent legates and urged Achilles to lend a hand and aid his miserable countrymen.
+
+690 But the Thetideian hero did not listen to the prayers of the Danaans and did not want any of the king's gifts; not even the proposal to return his beloved Briseis, untouched, stirred him to battle.
+
+694 The legates reported back his annoyed response to the Pelasgan leaders. Then, they renewed their strength by eating and finding gentle sleep.
+
+# A midnight mission
+
+696 The shadows of another day slowly passed under the gliding stars as the third part of that silent night continued. The Aetolian hero, by order of the Greeks, departed from camp and chose Ulysses to accompany him to search and study in the dim shadows of the night how confident the Trojans were, what drove them, and how many forces were prepared for battle.
+
+703 And while they made their frightening journey through places that were especially scary at night, a man named Dolon appeared. Since he was a wise man, he had been sent by the Trojan youth to observe the Danaan strength and report back the feelings of both the leaders and the common soldiers.
+
+707 When Ulysses, Diomedes' companion, saw him from far off, they hid and steathily concealed themselves behind some dense shrubs. Then, still hopeful in his vain journey, the Trojan Eumediades ran right before their hiding place. Diomedes hoped to overwhelm him and keep him from easily retreating to his camp.
