@@ -561,3 +561,9 @@
 703 And while they made their frightening journey through places that were especially scary at night, a man named Dolon appeared. Since he was a wise man, he had been sent by the Trojan youth to observe the Danaan strength and report back the feelings of both the leaders and the common soldiers.
 
 707 When Ulysses, Diomedes' companion, saw him from far off, they hid and steathily concealed themselves behind some dense shrubs. Then, still hopeful in his vain journey, the Trojan Eumediades ran right before their hiding place. Diomedes hoped to overwhelm him and keep him from easily retreating to his camp.
+
+712 As Dolon ran past them, trusting his courage and strength, Diomedes and Ulysses jumped out and grabbed the young Dolon. He tried to run away and escape but they held onto him threatened him with their swords.
+
+715 He was thoroughly frightened and said: "please, spare me my life. That one thing is enough."
+
+716
