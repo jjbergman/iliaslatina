@@ -623,3 +623,45 @@
 770 The Trojan youth bore down on them and constantly hurled spears.
 
 771 Their shouts filled the air.
+
+772 Neptune gave the Danaans strength and hardened their resolve.
+
+773 A huge fight broke out.
+
+773 The enemy ran rampant all over the place.
+
+774 Asius fell by the hand of Idomeneus; Hector killed fierce Amphimachus, and Alcathous, Anchises' son-in-law, also met his end, slain by the sword of the noble leader Rhytieus.
+
+777 Then fiery Deiphobus struck Ascalaphus with his spear and he drowned in the sea.
+
+779 Hector felt rage in his heart and fought ferociously across the battle. Great Ajax threw a massive rock which struck him and knocked him to the ground.
+
+782 The Trojan soldiers ran to him and soaked the young man's wounds in the Xanthus river while he vomited blood. @(does he vomit into the river or do they soak him in the river)
+
+784 Then they returned again to the fight; there is a great amount of bloodshed on both sides and the ground ran red with blood.
+
+786 Polydamas powerfully struck down Prothoenor, Telamonian Ajax killed Archelochus Antenorides, and Acamas felled Promachus the Boeotian, but in turn was laid low by the hand of savage Peneleus.
+
+789 The Priamian soldiers fell back, but then came back stronger and redoubled their efforts in the war with the Achaeans, forcing the Pelopeian soldiers to flee.
+
+792 Driven by fear, some of the men leapt over the wall and the ramparts that were protected by the moat. Others rolled into the trenches to flee from the battle. @(should I add the to avoid the fight part)
+
+# Hector tries to set fire to the Greek fleet
+
+794 Meanwhile, unwearied Hector, the dread of the Danaans, dashed toward the fight.
+
+795 Agamemnon's troops again fled to the fleet and there began to drive off the enemy with all their might.
+
+797 The fight broke out right in front of the ships.
+
+797 Mars-like Hector ran amok and asked for torches, preparing to set the whole fleet on fire.
+
+799 Ajax resisted him with all his strength. He stood on the nearest ship and used his shield to hold back the raging flames, singlehandedly defending a thousand ships.
+
+802 On one side, the Danaans hurled hard-tipped spears, while on the other side the Phrygians threw fiery torches everywhere; sweat flowed down the fighters' huge bodies.
+
+# Patroclus' deception
+
+805 Patroclus could not bear to watch any longer as his friends were killed. He suddenly emerged on the field wearing Achilles' armor, thoroughly terrifying the Trojans in his false appearance.
+
+808
