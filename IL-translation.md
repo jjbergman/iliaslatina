@@ -566,4 +566,30 @@
 
 715 He was thoroughly frightened and said: "please, spare me my life. That one thing is enough."
 
-716 
+716 But if you persist in your anger, what reward will you get from my death?
+
+718 But if want to know why I have come here during silent night: great Troy has promised to give me Achilles' chariot if we are able to take your treasures.
+
+720 I followed this promise and unlucky fell into this unfortunate situation in which you now see me.
+
+722 Now I implore you by the powerful gods, by the sea, by the waves of dark Dis, not to take my life and cruelly murder me.
+
+725 You will receive these gifts for letting me go safely: I will explain to you king Priam's plans and the possessions of the Phrygians."
+
+727 After that, Diomedes and Ulysses learned of what the Trojans were preparing to do. They then drew their swords and cut the young man's throat.
+
+729 They went into Rhesus's tent and killed him while he was buried in sleep and wine, then robbed his body and killed his allies laying in the field.
+
+732 After the sorrowful deed was done, they loaded the spoils on their backs and took some of the Thracian horses, which were sleek and beautiful beasts. These horses surpassed even Eurus in speed and could not be caught by any flying arrow. @(how to add these adjectives)
+
+736 Then they returned to the Argive fleet at first light. Old Nestor received them at the gates and brought them inside.
+
+738 When they were back inside their camp, they reported what happened to the king.
+
+739 He praised the Pelopeian hero and they allowed their tired limbs to find sweet sleep.
+
+# The battle continues anew
+
+741
+
+# The Trojans are pushed back
