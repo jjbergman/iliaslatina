@@ -590,6 +590,36 @@
 
 # The battle continues anew
 
-741
+741 First light sent the men back into their old war and the Dardanian and Danaan leaders restored the zeal for battle in the rested soldiers.
 
-# The Trojans are pushed back
+743 A cloud of spears rained on both sides and the sound of iron on iron filled the air in the muddled chaos.
+
+745 The disorderly lines approached each other and a river of sweat and blood flowed.
+
+747 Finally, the Danaan king became embroiled in his burning anger and shed the blood of Antiphon, who was knocked to the ground by his gaping wound. He then likewise killed Pisandrus and his brother, Hippolochus, who was running to the fight as well; sword in hand, he approached Iphidamas after that.
+
+751 He struck the king's hand with his spear; he became more enraged from the wound and pursued the fleeing son of Antenor, savagely getting vengeance for his injury.
+
+754 Hector, the son of Priam, then entered the battle. He was provoked by his bitter anger to drive back and strike the Greek soldiers in all directions.
+
+756 Nor did Paris refrain from striking down the enemy troops, as he shot an arrow which wounded Eurypylus's leg.
+
+# The Trojans corner the Greeks
+
+758 The Trojans pressed on as the Pelasgi fled to their camp since their forces were exhausted. They shored up the wall using huge beams.
+
+760 Then Mars-like Hector hurled a rock, which broke through the gates and loosened the iron-enforced walls.
+
+762 The Phrygians rushed through the opening and slew the Greeks standing near the threshold. They then struck down the troops on the rampart while others placed ladders on the walls and hurled torches.
+
+765 Victory increased their strength.
+
+766 The Danaans fought on the walls and tall towers.
+
+767 They threw rocks, but the Trojans made a *testudo* so that they could safely climb to the entrance and threaten the gate by force.
+
+769 All the Pelasgi were thrown into chaos and fled the camp, instead clambering into their ships.
+
+770 The Trojan youth bore down on them and constantly hurled spears.
+
+771 Their shouts filled the air.
