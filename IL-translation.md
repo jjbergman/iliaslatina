@@ -664,4 +664,16 @@
 
 805 Patroclus could not bear to watch any longer as his friends were killed. He suddenly emerged on the field wearing Achilles' armor, thoroughly terrifying the Trojans in his false appearance.
 
-808
+808 Those who had just been throwing the Danaans into confusion and fiercely fighting now felt fear in their hearts and fled; bold Patroclus pursued those who were fleeing and created chaos in their ranks. He shed the blood of men across the huge army and greatly wounded Sarpedon. In his fury he passed by several men @(is this really what it means? what is cursu doing) and turned the tide of battle under the terrifying guise of Achilles.
+
+814 When hot-blooded Hector spotted him slaughtering his allied troops and running amok in their ranks. Looking monstrous in his great armor, Hector drew on his courage and fiercely ran to meet him. He loudly rebuked him, saying: "Come this way, turn your course to me, bravest Achilles!"
+
+819 Now you will know what Troy's vengeful right hand is capable of and how strong bravest Hector is in war.
+
+821 Although Mars himself protects you with his arms, nevertheless I will destroy you with my own hand despite him."
+
+823 Patroclus was silent and ignored the threats and strong words to continue his deceit as the man whom he was pretending to be. @(Too loose? credatur. Literal is so that he might be believed as the true Achilles, whom he faked.)
+
+825 Then the Dardanian attacked first and hurled a spear with all his strength, but it fell to the ground. Patroclus swiftly removed it and threw it back, along with another gift: he hurled an unnaturally large rock, which struck Hector's shield and settled on the green grass.
+
+829 Then they drew their swords and embroiled themselves in hand to hand combat until Trojan Apollo revealed the lying face of the fake Achilles and exposed him. When the great warrior Hector caught on to the fact that Patroclus was fighting in false arms, he charged at him, pierced his chest with his naked sword @(naked go with chest or sword), and stripped off his Vulcan arms as the victor.
