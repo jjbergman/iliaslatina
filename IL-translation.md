@@ -713,3 +713,15 @@
 888 Herds grazed through the meadows and goats laid on a cliffside.
 
 889 In the middle of the shield stood Mars, gleaming in his golden armor. The goddess Atropus sat around him, along with the others, Clotho and Lachesis, who looked grim because of their snaky hair.
+
+# Achilles finally joins the battle
+
+892 Looking ornate in his newly gifted arms, the Thetideian hero went into the middle of the battle like a tremendous whirlwind. Juno and chaste Pallas offered him their strength and gave him courage.
+
+895 The Cytherian hero ran to meet him, but although he was not of the same strength as Aeacides, nor his equal, nevertheless his anger compelled him to attack the unconquerable Achilles.
+
+899 If the ruler of the great seas had not saved him, so that he could flee and refound Troy in the land of Latium and raise the Augustan race to the shining stars, the ancestor of our famous nation would not have remained on earth for long.
+
+903 Then Aeacides drove the Teucri back with his dangerous blade and killed a remarkable number of men in the slaughter. He thirsted for the blood of Hector.
+
+905
