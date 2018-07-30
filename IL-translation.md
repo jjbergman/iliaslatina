@@ -712,4 +712,4 @@
 
 888 Herds grazed through the meadows and goats laid on a cliffside.
 
-889 In the middle of the shield stood Mars, shining in his gilded armor. The goddess Atropus sat around him, along with the others, Clotho and Lachesis, who looked grim because of their snaky hair.
+889 In the middle of the shield stood Mars, gleaming in his golden armor. The goddess Atropus sat around him, along with the others, Clotho and Lachesis, who looked grim because of their snaky hair.
