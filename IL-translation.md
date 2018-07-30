@@ -677,3 +677,31 @@
 825 Then the Dardanian attacked first and hurled a spear with all his strength, but it fell to the ground. Patroclus swiftly removed it and threw it back, along with another gift: he hurled an unnaturally large rock, which struck Hector's shield and settled on the green grass.
 
 829 Then they drew their swords and embroiled themselves in hand to hand combat until Trojan Apollo revealed the lying face of the fake Achilles and exposed him. When the great warrior Hector caught on to the fact that Patroclus was fighting in false arms, he charged at him, pierced his chest with his naked sword @(naked go with chest or sword), and stripped off his Vulcan arms as the victor.
+
+836 Telamonian Ajax grabbed his dead body and protected it with his shield.
+
+837 The Priamian soldiers happily rejoiced while the Danaans mourned their losses.
+
+# Achilles hears of Patroclus' death
+
+839 Meanwhile, young Nestorides and his sad companions carried the wretched corpse into camp.
+
+841 Then, as the horrible news reached Pelides' hears, he became upset and grew pale as all his warmth left his body; while he was crying, Aeacides tied his mother's mantle to Patroclus and mourned his comrade's sorrowful death.
+
+845 He scratched at his face and dirtied his beautiful hair in the dust. He tore his clothes from his chest and lay on top of his dead friend while he poured forth bitter laments and kissed his body.
+
+849 When his groaning and tears subsided, he said: "you will not be able to celebrate my friend's death without retribution, Hector. You are a boisterous man and will pay a steep price for my grief. You will die in those arms of yours in which you currently boast your victory and your blood will flow in the ground."
+
+# Achilles receives new armor
+
+854 After this, inflamed by his wrath, he ran to the shore and begged Thetis for some strong armaments.
+
+855 She left the sea and immediately begged Vulcan for help.
+
+857 Vulcan Mulciber ignited the fires of Aetna in the hot furnaces and formed the tawny gold with his mighty hammer. @(too loose? do blows for ictibus?)
+
+858 Then he brought back the finished armor, which had been made with his divine expertise, and gave it to Thetis; great Achilles put on the armor and turned his cruel face to look at the shield.
+
+862 On it, the god of fire had engraved the sky and stars and had made the lands of the Ocean, surrounded everywhere by the watery nymphs, and the marvelous sea castles of the Nereids along with Nereus. He also carved the changing stars and laid out the different times of night, along with the four parts of the world. He showed how far the north was from the south and how far away the red sun sets from where it rises. He laid out where Lucifer and Hesperus, both names for the same star, rose in the sky with their horses. He showed how far the concave moon traveled in its orbit @(too modern?) and where it lit up the sky as its shining lamp; he also included the seas along with their gods: great Nereus and old Oceanus and fickle Proteus, as well as the wild Tritones and Doris, the lover of the tide; he also displayed the watery Nereids with marvelous artistry.
+
+875
