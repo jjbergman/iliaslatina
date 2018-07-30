@@ -704,4 +704,12 @@
 
 862 On it, the god of fire had engraved the sky and stars and had made the lands of the Ocean, surrounded everywhere by the watery nymphs, and the marvelous sea castles of the Nereids along with Nereus. He also carved the changing stars and laid out the different times of night, along with the four parts of the world. He showed how far the north was from the south and how far away the red sun sets from where it rises. He laid out where Lucifer and Hesperus, both names for the same star, rose in the sky with their horses. He showed how far the concave moon traveled in its orbit @(too modern?) and where it lit up the sky as its shining lamp; he also included the seas along with their gods: great Nereus and old Oceanus and fickle Proteus, as well as the wild Tritones and Doris, the lover of the tide; he also displayed the watery Nereids with marvelous artistry.
 
-875
+875 The land had forests and horrifying wild monsters and rivers and mountains and towns with high walls in which people debate and enforce their laws and old codes; a judge that was fair to each side sat and heard cases in a calm state of mind.
+
+880 On another part, chaste girls sang Paeans and gave a beautiful performance while a hand beat a drum; Apollo strummed simple chords on his lyre with his thumb and played the seven modes on the reeds: they composed songs that reproduced the motion of the world.
+
+885 Other people tilled the fields, young bulls plowed the arable land @(gravia is the issue). A strong harvester reaped the matured grains and a dirty vineyard worker was glad that his grapes were finally pressed.
+
+888 Herds grazed through the meadows and goats laid on a cliffside.
+
+889 In the middle of the shield stood Mars, shining in his gilded armor. The goddess Atropus sat around him, along with the others, Clotho and Lachesis, who looked grim because of their snaky hair.
