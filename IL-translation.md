@@ -724,4 +724,22 @@
 
 903 Then Aeacides drove the Teucri back with his dangerous blade and killed a remarkable number of men in the slaughter. He thirsted for the blood of Hector.
 
-905
+905 The Dardanian leader was terrified and fled to the coursing tides of the Xanthus. There he asked the god of the river for help. @(just Hector or all the Trojans)
+
+907 Achilles pursued as the fighting took place amidst the water's waves.
+
+909 Anger gave them strength; the banks were covered in blood and the bodies of the fallen soldiers floated farther with every wave.
+
+911 But Venus and Apollo, the protector of the Phrygians, forced the waves of the Xanthus to rise against the Danaans to crush Aeacides, who was leaving his deadly mark with his frightful strength. The river immediately began to stray from its course and turned into a huge whirlpool that blocked Achilles with its torrential waves and slowed his advance.
+
+917 Achilles fought against the raging waters with all his might and broke through the river's obstacles. He drove himself through some of the scattered waves with his shoulders and some with his broad chest. @(modo modo is at one time...at another)
+
+920 Juno foresaw this and assisted him so that he wouldn't yield to the blows of the rapid water. The sacred gods then began to fight among themselves.
+
+923 Wild Aeacides again drove back the Phrygian troops, slaughtering great numbers of them. His ardor restored, he rejoined the deadly fight and embroiled himself in the horrible battle.
+
+926 No force could move him, nor did his raging heart tire from all the fighting; success magnified his strength.
+
+928 The Trojans faltered, trembling with fear. @(need a transition word for the ppl or no) They fled to the walls of the city because they felt their luck had run out. They then shored up the gate's defenses by placing an oak beam on it.
+
+# Hector decides to fight Achilles
