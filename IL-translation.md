@@ -752,4 +752,30 @@
 
 944 His poor parents looked on from the walls at his fate and saw their son growing pale in his final hours. His last day gave him one last view of the light of day.
 
-947 Suddenly Tritonia appeared before him in the guise of his brother, running toward him. @(or was Hector running) But she deceived him by imitating his brother's face. When he believed that he was safe under the protection of his brother, Deiphobus, Pallas again returned her divine strength to the Danaans. 
+947 Suddenly Tritonia appeared before him in the guise of his brother, running toward him. @(or was Hector running) But she deceived him by imitating his brother's face. When he believed that he was safe under the protection of his brother, Deiphobus, Pallas again returned her divine strength to the Danaans.
+
+951 The unconquered young men threw their spears then ran to fight in hand to hand combat.
+
+952 One man would bring the thunder @(too colloquial?) in his great arms, the other would block his attack with his strong shield. Then they would exchange fierce blows in successive engagements.
+
+955 Sweat flowed in streams as grim sword clashed with sword, locked foot clung to foot and hand to hand.
+
+957 Savage Achilles balanced a spear in his hands and threw it with all his might, but cunning Hector avoided it as it glided past him.
+
+960 The Danaans cried out.
+
+960 The Priamian hero then hurled a rocketing javelin at the man in Vulcan's arms, but it does not hit its mark, since it was deflected by the hard gold and the point broke on impact.
+
+963 The Trojan soldiers groaned.
+
+964 They bravely ran to meet each other and lock arms once again. They each avoided the other's harsh blade in close combat.
+
+966 Hector's strength faltered. He was not strong enough to live beyond his final fate and meet Aeacides.
+
+968 When he faltered and looked to his brother's aid in this dangerous situation, he saw no means of salvation and realized Tritonia's trickery.
+
+970 What should he do?
+
+970 Which god should he invoke or pray to?
+
+971
