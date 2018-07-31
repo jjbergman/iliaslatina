@@ -743,3 +743,13 @@
 928 The Trojans faltered, trembling with fear. @(need a transition word for the ppl or no) They fled to the walls of the city because they felt their luck had run out. They then shored up the gate's defenses by placing an oak beam on it.
 
 # Hector decides to fight Achilles
+
+931 Hector remained the one hope of salvation for the Trojans. Neither the fear of harsh death nor the prayers of his father could hold him back from flying into a rage and wishing to fight with great Achilles.
+
+935 When he saw him in the distance, clothed in his heavenly arms, Tritonian Pallas appeared before him and he became scared. The unlucky man ran around the walls, since the gates were closed, and the Nereian hero followed him.
+
+939 It was like a dream, when anger frightens your heart @(work on this whole sentence, but this part especially), and one man follows close behind while the other flees- both hurry, and the exertion slows their speed. In such a way, Hector and Achilles were able to pursue the course of action that was dangerous to both men. There was no rest: fear stirred the anger of both sides.
+
+944 His poor parents looked on from the walls at his fate and saw their son growing pale in his final hours. His last day gave him one last view of the light of day.
+
+947 Suddenly Tritonia appeared before him in the guise of his brother, running toward him. @(or was Hector running) But she deceived him by imitating his brother's face. When he believed that he was safe under the protection of his brother, Deiphobus, Pallas again returned her divine strength to the Danaans. 
