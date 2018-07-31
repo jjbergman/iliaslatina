@@ -778,4 +778,52 @@
 
 970 Which god should he invoke or pray to?
 
-971
+971 His strength faded from his body his force failed him.
+
+972 His hand could scarcely hold his sword, dark night covered his vision, and no aid was coming to help the exhausted soldier.
+
+974 He fought on, though he was about to die, and suppressed a groan from the depths of his heart.
+
+975 The Nereian hero came a little closer but still threatened the confused soldier from far off; then he threw a spear and the hard point pierced his throat.
+
+978 The Danaans rejoiced as the Trojans bewailed his injury.
+
+# Hector's final request
+
+979 Then unlucky Hector, as his strength dissipated, said: "Please, give my body back to my poor parents. My wretched father will pay a lot of gold for it."
+
+982 As the victor, you will receive many rewards.
+
+982 The son of Priam asks this of you, as does Priam himself, the leader of all leaders, the only one whom Greece feared.
+
+984 But if you are not convinced by my prayers or by the promise of gifts, and you are not moved by a miserable man's tears nor his noble family, at least pity my father who is in a state of ruin.
+
+986 Let Peleus change your heart for Priam's sake, let Pyrrhus do so for my body. @(let in the english colloquial sense works here)
+
+988 Priamides finished his speech.
+
+988 Harsh Achilles said in return: "Why are you trying to change my heart with your begging? If nature allowed it, I would tear you to pieces with my own jaws like a wild beast.
+
+992 The grim beasts and all the birds will rip you to shreds and the insatiable dogs will dine on your entrails.
+
+994 Patroclus's ghost will take this final joy from you, if shades are able to do so.
+
+995 While great Achilles savagely hurled these insults, poor Hector gave up his life.
+
+997 Achilles' conscience was not yet free of his comrade's death, so he tied Hector's body by the feet to his chariot and dragged his bloodless limbs around the city three times in victory; the success of their master drove the horses even faster.
+
+1000 Then the great hero brought Hector's body, which he had defiled in the dust, to the Danaans.
+
+1002 The Danaans rejoiced as the Trojans lamented their loss and likewise mourned the fact that, with his death, their walls were captured as well.
+
+# Patroclus' funeral
+
+1004 Meanwhile, victorious Aeacides buried the corpse of his friend whom he had so bitterly mourned. He led the procession at his funeral.
+
+1006 Then he dragged Hector's wretched body around the burial mound and declared that their be games to honor his lifeless ashes.
+
+1008 Tydides overcame all in the in the race, including fierce Meriones; Ajax was conquered in the wrestling match: his strength was beaten by cunning Laertius. Epeus beat all his challengers in boxing. Polypoetes, a strong discus thrower, overcame the others in that competition and Meriones won archery.
+
+1013 Finally, after the contest was over, Achilles returned to camp accompanied by the crowds of soldiers.
+
+1015
