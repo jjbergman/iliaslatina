@@ -826,4 +826,36 @@
 
 1013 Finally, after the contest was over, Achilles returned to camp accompanied by the crowds of soldiers.
 
-1015
+# Priam begs for Hector's body
+
+1015 The miserable Phrygians wept at Hector's death and all of Troy resounded with their sad mourning. Wretched, pitiable Hecuba poured forth her laments and savagely cut up her own face with her nails. Andromache tore her clothes from her chest because she had been robbed of a great man.
+
+1019 The whole Phrygian cause lay in ruins along with Hector, and his tired old father, shattered and pitiable, lay in ruins as well. His wife, his multitude of children and the glory of his great kingdom were not able to keep him, forgetting even his life, from going unarmed and alone to the camp of his unconquered enemy.
+
+1025 The Greek chiefs were surprised and Aeacides himself was taken aback by the courage of the sad old man. He prostrated himself at Achilles feet, stretched his trembling hands to the stars, and said these things: "Achilles, bravest of the Greek race, enemy of my kingdom, you alone were feared by the beaten Dardanians, your cruelty has been felt too much in my old age."
+
+1031 Now I beg you to be merciful and take pity on a broken man praying at your feet. Please, take these gifts which I have brought you in exchange for the body of my wretched son.
+
+1034 If you will not be persuaded by my prayers or by my gold, let your hand strike this old man in his last years.
+
+1036 At least the father will join his son in cruel death!
+
+1037 You need not grant me my life or any great honors, but only a bitter death.
+
+1038 Pity the parent and learn to be a gentle father from looking at my body.
+
+1040 In Hector's death you have conquered the Dardan kingdom and Priam.
+
+1041 As the victor, consider the lot of humankind and examine the various misfortunes that befall leaders."
+
+1043 Finally, Achilles was moved by his prayers, so he lifted the old man from the ground and returned Hector's bloodless corpse to the father.
+
+1045 After that, Priam took his offerings back with him to Troy and, according to custom, he prepared the sorrowful funeral and led his final burial.
+
+1048 Then a pyre was constructed, upon which twelve bodies of Greek soldiers and horses were placed, along with chariots and trumpets and shields, empty helmets and bright spears. @(bright? maybe should use still or not thrown anymore something of that nature)
+
+1051 Hector was placed on top as the crowd loudly lamented.
+
+1052 The Trojan mothers stood around the pyre as they tore out their beautiful hair and beat their breasts, for in that pyre they saw the deaths of their own children.
+
+1055
