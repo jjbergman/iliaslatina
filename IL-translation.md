@@ -850,6 +850,8 @@
 
 1043 Finally, Achilles was moved by his prayers, so he lifted the old man from the ground and returned Hector's bloodless corpse to the father.
 
+# Hector's funeral
+
 1045 After that, Priam took his offerings back with him to Troy and, according to custom, he prepared the sorrowful funeral and led his final burial.
 
 1048 Then a pyre was constructed, upon which twelve bodies of Greek soldiers and horses were placed, along with chariots and trumpets and shields, empty helmets and bright spears. @(bright? maybe should use still or not thrown anymore something of that nature)
@@ -858,4 +860,18 @@
 
 1052 The Trojan mothers stood around the pyre as they tore out their beautiful hair and beat their breasts, for in that pyre they saw the deaths of their own children.
 
-1055
+1055 The youths tearfully cried aloud.
+
+1056 They understood that Ilion herself was burning in those flames.
+
+1057 During all this, Andromache was grieving and tearing at her chest. She ran forward, hoping to hurl herself into the middle of the fire while holding Astynax, but her attendants, as commanded, grabbed her before she could do so.
+
+1060 She tried to resist them until the fire died down and her great general faded into tiny ash.
+
+# Epilogue
+
+1063 Calliope, stop this course and put an end to my work. Guide the ship of your poet, whom you now see approaching the shore with just a few oars and reaching the harbor, mighty Homer's finish line.
+
+1067 Attendant Muses, let go of the ropes; divine one, whose virgin locks are wreathed with laurel, put down your lyre.
+
+1069 Be present, illustrious Pallas, and you, Phoebus, look with favor upon your poet now that this voyage has ended.
