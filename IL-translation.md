@@ -262,55 +262,55 @@
 
 321 I saw it happen and was ashamed to see when violent Atrides took hold of you and dragged you around and soiled your hair in the Ilian dust.
 
-324 Miserable me! I feared that his Doric sword would bring an end to our kisses; my mind was driven insane, all color fled from my face and my blood left my limbs.
+324 How terrible! I feared that his Doric sword would bring an end to our kisses; my mind was driven insane, all color fled from my face and my blood left my limbs.
 
-327 Who persuaded you to go up against savage Atrides?
+327 Who persuaded you to go up against the savage son of Atreus?
 
 328 Or had the widespread fame of his courage in battle not yet reached your ears?
 
 329 I am telling you, you should not wish to entrust your fate to his hand. @(What to do with inique)
 
-331 She said this as large tears flooded her face.
+331 She said this as huge tears flooded her face.
 
 332 Gloomy Alexander replied: "Atrides did not defeat me, O my love, but rather the wrath of chaste Pallas."
 
 334 Soon you will see, he will shamefully succumb to my strength, and Cytherea will aid me in this endeavor.
 
-336 After that, they mutually embraced and he lay with her, the child of the swan; she received his love and that of Troy @(Troiae) with an open bosom
+336 After that, they mutually embraced and he made love to child of the swan; in her bosom she gave him her love as well as Troy's. @(need a lot help making this into English)
 
 # The fighting resumes
 
 339 Meanwhile, Menelaus looked for Alexander among the Trojans and carried himself as if he had won.
 
-341 His brother helps him while rousing the allied troops for war. He yelled harsh words at the beaten Phrygians, claiming that the conditions of the battle should be observed and Helen should be returned.
+341 His brother helps him while rousing the allied troops for war. He yelled harsh words at the beaten Phrygians, saying that the conditions of the battle should be observed and Helen should be returned.
 
-344 While the leaders continued to argue amongst themselves, the omnipotent king of Olympus held a council meeting. Then, Pandarus drew his bow and ended the truce, seeking you, Menelaus; the flying arrow cut into his side and cut his reinforced iron tunic.
+344 While the leaders continued to argue among themselves, the omnipotent king of Olympus held a council meeting. Then, Pandarus drew his bow and ended the truce, hoping to hit Menelaus; the flying arrow cut into his side and pierced his reinforced iron tunic.
 
-349 Atrides let out a groan and left the field to go to the safety of the camp. There, the young Podalirius, using the knowledge handed down from his father, healed Menelaus with Paeonian herbs and sent him back to the horrifying and bloody battle.
+349 Atrides let out a groan and left the field to go to the safety of the camp. There, the young Podalirius, using knowledge handed down from his father, healed Menelaus with Paeonian herbs and sent him back to the horrifying and bloody battle.
 
 353 Agamemnon's wrath roused his brave troops for battle as their communal grief compelled them to fight.
 
-355 A great battle arose and much blood was shed on both sides. Bodies were scattered across the whole field as throngs of Trojans and Greeks were killed in turn. There was no rest for the men: Mars' cries could be heard everywhere as showers of spears flew in all directions.
+355 A great battle arose and there was great bloodshed on both sides. Bodies were scattered across the whole field as throngs of Trojans and Greeks were killed in turn. There was no rest for the men: Mars' cries could be heard everywhere as showers of spears flew in all directions.
 
 360 Thalysiades was cut down by the harsh sword of Antilochus and plunged into the realm of shadows, leaving the pleasing world of light.
 
 362 Then Telamonian Ajax attacked Anthemion's son, who was pursuing the Greeks from behind with all his strength, and pierced his chest using his hardened spear.
 
-365 The son of Anthemion vomited purple guts mixed with blood and began to cry as he passed away. @(Should this be riget? Like hardened? Or is he crying?)
+365 The son of Anthemion's vomit was purple from the blood mixed in. The blood wet his face as he passed away.
 
 366 Then Antiphus exerted all the force of his body to hurl a spear at Aeacides; however, the spear wandered from its intended enemy and struck a different one, piercing Leucon's groin.
 
-370 This unlucky man was laid low by the grievous wound and, while he lay dying, he chewed on the green grass.
+370 This unlucky man was laid low by the grievous wound and bit the grass from the fall. @(very free but trying to make the English sound good)
 
 372 Unwearied Atrides was moved by his friend's death. He attacked Democoon and pierced his temples with his wooden spear. The wild son of Atreus drew his sword from its sheath. Democoon fell to his attacks and as he lay dying on his back, he beat his head against the ground.
 
 377 Then Pirous, the son of Imbrasus, threw a huge rock at Amaryncides, which knocked him down and handed him over to silent death; but while he eagerly tried to plunder the young man's spoils, a spear came from above that was sent by the hand of Thoas. The spear pierced Pirous' shoulders and went straight through his strong chest.
 
-382 He fell on his face as he vomited warm blood and trembled while he lay on top of his weapons.
+382 He fell on his face as he vomited warm blood. He trembled as he lay on top of his weapons.
 
-384 Everywhere the Dardanian fields were wet with blood. The rivers ran red with blood likewise.
+384 Everywhere the Dardanian fields were wet with blood. The rivers ran red with blood as well.
 
-385 Both armies raged as they fought in the turmoil. First the courage of the Trojans, then that of the Greeks became greater, as both sides desired sweet victory through any means necessary.
+385 Both armies raged as they fought in the turmoil. First the courage of the Trojans prevailed, then that of the Greeks, as both sides desired sweet victory by any means necessary.
 
 # The aristeia of Diomedes
 
