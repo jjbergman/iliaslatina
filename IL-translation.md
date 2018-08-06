@@ -354,7 +354,7 @@
 
 445 Then he attacked Polyidon and Abas using his spear, as well as Xanthus, who was famous in battle, and Thoon, who was an immense man.
 
-447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon and sent them to Tartarus with his swift spearwork as well. @(I think your comment of "good!" was sarcastic but I'm not sure)
+447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon with his swift spearwork and sent them to Tartarus as well.
 
 449 You also, Pandarus, were laid low by the hand of Tydides and received a gruesome wound joining the right side of your nose to your brow. @(not sure what the "where" comment meant here, maybe wound where the right side of his nose was joined to his brow?)
 
