@@ -314,61 +314,61 @@
 
 # The aristeia of Diomedes
 
-389 Then, after Tydides saw from afar that the Greek troops were wavering and Mars was growing in strength, he rushed into the middle of the fighting, where the greater part of the enemy were, and he cut down their muddled ranks in a massacre.
+389 Then, after Tydides saw from afar that the Greek troops were wavering and Mars was growing in strength, he rushed into the middle of the fighting, where the greater part of the enemy was, and he cut down their disorganized ranks in a massacre.
 
 393 He savagely brandished his sword and spear in all directions.
 
-394 Warlike Pallas, who was nearby, aided his ardent attacks with a fiery passion. She granted the young man both courage and strength.
+394 Warlike Pallas, who was nearby, aided his ardent attacks with fiery passion. She granted the young man both courage and strength.
 
 396 As a savage lioness is driven by hunger when she sees a herd of cattle, and charges into the herd to tear at their exposed bodies, so did the Calydonian hero charge into the enemy lines. The warlike virgin goddess used her divine power to keep him safe, warning him when danger arose.
 
 401 As the Phrygians turned back and fled, Tydides pursued the retreating troops and trampled the piled masses of his expiring foes.
 
-403 While he wrathfully struck down his enemy, in his rage he saw the sons of Dares, Phegeus and also Idaeus, standing among his adversaries. Phegeus attacked him first with his weighted spear, but Tydides’ shield repelled the blow and the spear, having missed its mark, stuck into the ground.
+403 While he furiously struck down his enemy, in his rage he saw the sons of Dares, Phegeus and Idaeus, standing among his adversaries. Phegeus attacked him first with his weighted spear, but Tydides’ shield repelled the blow and the spear, having missed its mark, stuck into the ground.
 
 407 Without delay, Tydides hurled a massive javelin with all his strength and pierced Phegeus’ chest: the spear ran through his whole body, sticking through his chest and his shoulders.
 
 411 When Phegeus’s brother saw him spouting a river of warm blood and rolling his eyes and breathing his last, he drew his sword and swiftly flew to defend his brother’s fate.
 
-415 But, Idaeus was not able to endure the force nor the mighty attacks of savage Tydides, @and yet he tried to defend himself. (what to do with tamen)
+415 But, Idaeus was not able to endure the force nor the mighty attacks of savage Tydides, yet he tried to defend himself. (what to do with tamen)
 
-417 As when a bird sees a hawk tearing and mutilating her child’s body, but is unable to strike back, and in her distress is not strong enough to aid or save her offspring, so she beats her breast with her weak wings, Idaeus looked on as his enemy grew arrogant because of his brother’s death. He was unable to run to the aid of his brother, and if he had not yielded, he would have been killed by the same hand.
+417 As when a bird sees a hawk tearing and mutilating its child’s body, but is unable to strike back, and in its distress is not strong enough to aid or save its offspring, so it beats its breast with its weak wings, Idaeus looked on while his enemy grew arrogant because of his brother’s death. He was unable to run to the aid of his brother, and if he had not yielded, he would have been killed by the same hand.
 
 # The battle rages on
 
-424 The other son of Atreus attacked the Teucri with no less fury as he pursued the Trojan lines and sent many men to their grave by his sword.
+424 The other son of Atreus attacked the Trojans with no less fury as he pursued their lines and sent many men to an early grave with his sword.
 
 426 Unlucky Odius, led by unkind fate, came to attack him, but Atrides hurled a spear which struck him and pierced through his shoulders.
 
-429 Idomeneus then attacked Phaestus the Maeonian, who was running to attack him from the enemy lines. After Idomeneus happily killed him, he sent Strophius' son down to the Stygian realm as well.
+429 Idomeneus then attacked Phaestus the Maeonian, who was running to attack him from the enemy lines. While Idomeneus was delighting in his kill, he sent Strophius' son down to the Stygian realm as well.
 
 432 Meriones hurled a spear which struck down Phereclus, as Meges did to Pedaeus.
 
-433 Then, looking terrifying in his armor, Eurypylus cut down Hypsenor as he attacked, and he stripped the young man of his life and his equipment alike.
+433 Then, looking terrifying in his armor, Eurypylus cut down Hypsenor as he attacked, and he stripped the young man of his life and his equipment.
 
 # Diomedes takes on Pandarus and Aeneas
 
-436 Pandarus came forth from another part of the field with his bow already drawn. He looked for Tydides among the vast armies; Pandarus saw him cutting down the bodies of Trojan soldiers and he aimed a deadly arrow from his taut bow which grazed the top of Tydides' shoulder.
+436 Pandarus came forward from another part of the field with his bow already drawn. He looked for Tydides among the vast armies; Pandarus saw him cutting down the Trojan lines as he aimed a deadly arrow from his taut bow, which grazed the top of Tydides' shoulder.
 
 441 Then the Calydonian youth became truly enraged and carried himself into the middle of the fighting, like a savage lion, as he cut down Astynous and also great Hypiron- the first he killed in hand to hand swordfighting and the second with his javelin from afar.
 
 445 Then he attacked Polyidon and Abas using his spear, as well as Xanthus, who was famous in battle, and Thoon, who was an immense man.
 
-447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon with his swift spearwork and sent them to Tartarus as well.
+447 After cutting down these men, the enraged son of Tydeus attacked Chromius and Echemmon and sent them to Tartarus with his swift spearwork as well. @(I think your comment of "good!" was sarcastic but I'm not sure)
 
-449 You also, Pandarus, were laid low by the hand of Tydides and received a gruesome wound that joined the right side of your nose to your brow.
+449 You also, Pandarus, were laid low by the hand of Tydides and received a gruesome wound joining the right side of your nose to your brow. @(not sure what the "where" comment meant here, maybe wound where the right side of his nose was joined to his brow?)
 
-452 His brains seeped out, since they had been torn out with part of his helmet, as Tydides cut and stabbed his bones as well.
+452 His brains seeped out, since they had been torn out with part of his helmet, as Tydides cut even his bones.
 
-454 And now Aeneas and the Calydonian hero pitted their force against each other by throwing spears at each other from close by.
+454 And now Aeneas and the Calydonian hero pitted their force against each other by throwing spears at each other from up close.
 
-456 While they both attempted to seek an opening to strike with their swords, they would retreat backwards and then attack once more.
+456 While they both looked for an opening to strike with their swords, they would retreat backwards and then attack once more.
 
 458 After each man had stood tall for a long time, and great Tydides could not see how he could injure Aeneas with his attacks, Tydides lifted a massive rock, which was sitting by chance in the middle of the field and would have taken twelve young men to barely lift from the ground, and threw it with all his strength at Aeneas.
 
 463 He fell to the ground in his full armor, then Venus, his mother, glided down through the heavenly air and took him from the field, covering his body with a dark fog.
 
-466 Oenides could not bear this, so he went through the mist and ardently attacked Venus. In his demented state he could not see an opportunity to strike Aeneas, but he saw Venus's heavenly hand and wounded it with his merely human spear.
+466 Oenides could not bear this, so he went through the mist and passionately attacked Venus. In his demented state he could not see an opportunity to strike Aeneas, but he saw Venus's heavenly hand and wounded it with his merely human spear.
 
 470 Cytherea was wounded, so she abandoned the earth and returned to heaven, where she complained about her injury to her heavenly mother.
 
@@ -382,7 +382,7 @@
 
 482 The ground ran red with blood and the fields became wet from all the sweat.
 
-483 Meanwhile, the handsome son of Venus leapt forth and attacked the crowded Greek troops. He mowed and cut down their exposed flank across the whole line and created more deadly duels.
+483 Meanwhile, the handsome son of Venus leapt forth and attacked the crowd of Greek troops. He mowed and cut down their exposed flank across the whole line and created more deadly duels.
 
 # The battle continues
 
@@ -394,15 +394,15 @@
 
 494 Victory doubles their efforts.
 
-495 When he saw his allies losing the deadly battle, the exalted king of the Danaans flew on horseback into the thicket, encouraging his leaders and reaffirming their courage in the battle.
+495 When he saw his allies losing the deadly battle, the exalted king of the Danaans flew on horseback into the fray, encouraging his leaders and reaffirming their courage in the battle.
 
 498 Soon he boldly carried himself into the middle of the enemy with his sword drawn and split the opposing lines.
 
-500 Like an African lion, which rejoices @(know its joyous herds but this makes more sense to me as transferred) when it sees a far off herd of cows that are grazing on the green grass, then raises his mane and puffs his chest and, because he is thirsting for their blood, runs into the middle of the flock, the savage son of Atreus went into the enemy lines and repulsed the hostile Phrygian troops with his spear.
+500 Like an African lion, when it sees a far off herd of cows that are happily grazing on the green grass, then raises his mane and puffs his chest and, because he is thirsting for their blood, runs into the middle of the flock, the savage son of Atreus went into the enemy lines and repulsed the hostile Phrygian troops with his spear.
 
-506 Their leader's visible example of courage raised the spirits of the Greeks and inspired the soldiers' tiring arms.
+506 Their leader's courageous example raised the spirits of the Greeks and inspired the soldiers' tiring arms.
 
-508 The Teucri were routed and the Danaans rejoiced.
+508 The Trojans were routed and the Danaans rejoiced.
 
 509 Finally Atrides saw Aeneas heading toward him on his chariot.
 
@@ -414,7 +414,7 @@
 
 520 After that, Jupiter's famous son Sarpedon joined the battle, bringing his deadly force with him.
 
-522 Unlucky Tlepolemus, the son of great Hercules, fought him in with unequal arms, and neither his father's strength nor his many labors were able to save him. He fell, and surrendered his weak spirit from his body.
+522 Unlucky Tlepolemus, the son of great Hercules, fought him despite his unequal arms, and neither his father's strength nor his many labors were able to save him. He fell, and surrendered his weak spirit from his body.
 
 526 Sarpedon had been wounded, so he retreated from the heat of battle. Ulysses, the wily trickster, replaced him and killed seven of the bravest young men of Troy.
 
@@ -438,7 +438,7 @@
 
 549 They placed sacred wreaths on her altar and, as is customary, sacrificed the consecrated animals.
 
-551 @(Need to work on whole sentence. Who is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name and family, who he is and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you rushing to me? What reason compels you, accursed man, to come so furiously against me, despite your unequal strength?"
+551 @(Need to work on whole sentence. Who is the one trying to throw a spear?) While Hecuba prayed as a suppliant at Minerva's temple, on behalf of her dear children and spouse, Glaucus drew his sword and prepared to fight Diomedes. Diomedes asked for his name, family, and where he came from. As fierce Glaucus was preparing to throw a spear with all his strength, the Aetolian hero cried out to him: "Why are you attacking me? What reason compels you, accursed man, to assault me so angrily, despite your unequal strength?"
 
 559 You see before you the arms of a visitor to your land, who wounded Venus's hand and injured Mars in our last duel.
 
@@ -452,29 +452,29 @@
 
 # Hector and Ajax duel
 
-575 The fierce warrior said these things and went through the open gates and out to battle along with Paris.
+575 The fierce warrior said this and went through the open gates to battle, along with Paris.
 
-576 When he came into battle, immediately great Hector proceeded into the middle of the fray and challenged the Greek leaders, because he had unconquerable strength.
+576 When he came into battle, immediately great Hector proceeded into the middle of the fray and challenged the Greek leaders, since he was unbeatable.
 
-579 Without delay, wily Ulysses the deceiver, and fierce Idomeneus and Meriones, famous because of his father's lineage, and the savage son of Atreus, who was the leader of the Greeks, and the two Ajaxes, and beautiful Eurypylus in his famous arms, and Thoas, son of great Andraemon, and he who humiliated Venus by inflicting her hand with a wound, all stepped forth; but Achilles, the terror of the Trojans, was absent as he played the sweet lyre to assuage the harsh loss of his beloved.
+579 Without delay, wily Ulysses the deceiver, and fierce Idomeneus and Meriones, famous because of his father's lineage, and the savage son of Atreus, who was the leader of the Greeks, and the two Ajaxes, and beautiful Eurypylus in his famous arms, and Thoas, son of great Andraemon, and he who humiliated Venus by inflicting her hand with a wound, all stepped forth; but Achilles, the terror of the Trojans, was absent, merely playing the sweet lyre to assuage the harsh loss of his beloved.
 
 587 Their lots were cast into king Atrides' gilded helmet and great Ajax was chosen. Ajax and Hector began their fight by throwing spears at each other.
 
-590 Then they drew their stiff swords and settled the dispute with their fierce strength. They each looked for openings and tried to attack the other's back, but they each repelled the strong attacks with their mighty shields.
+590 Then they drew their stiff swords and settled the dispute with their fierce strength. They each looked for an opportunity to attack the other's back, but they each repelled the strong attacks with their mighty shields.
 
 593 They shouted to the heavens and filled the air with their cries.
 
-594 Not even boars can stimulate their anger with such passion and roar from their great chests, then attack the strong backside of their enemy with their tusks and foam at the mouth once more, compared to Hector and Ajax as they successively swung their swords and wounded the other. @ (work on this whole sentence, how to construe metaphor)
+594 Not even boars stimulate their anger with such passion or roar from their great chests, then attack the their enemy's rear with their tusks and foam at the mouth, compared to Hector and Ajax as they successively swung their swords and wounded the other. @ (work on this whole sentence, how to construe metaphor)
 
 599 There appeared smoky clouds of dust, great flashes of light, and flames; the woods become loud from the noise.
 
-601 The son of Priam and fiery Ajax fought with strength of that kind.
+601 The son of Priam and fiery Ajax fought with strength like that.
 
 602 Finally, Telamonian Ajax's spear and courage went into a fury as he took aim at the great warrior Hector. He saw that Hector's neck lay exposed and aimed his gleaming sword there.
 
 605 Clever Hector saw the attack coming, protected his exposed side, and blocked Ajax's sword with his shield.
 
-607 But his nimble sword glanced off the top of the shield grazed his neck, slightly wounding him.
+607 But his nimble sword glanced off the top of the shield and grazed his neck, slightly wounding him.
 
 609 The son of Priam began to fight more fiercely, again rising against his enemy. However, this time he attacked the son of Telamon not with his sword, but by throwing a massive rock.
 
@@ -486,9 +486,9 @@
 
 620 Then Hector, the greatest warrior, said "which land, which parents gave birth to you? You are the noble and glorious offspring of a great people."
 
-623 In return, Telamonian Ajax was prepared to say: "You see before you the son of Telamon and my mother Hesiona; my house is a noble one and my family is famous for its stock."
+623 In return, Telamonian Ajax said: "You see before you the son of Telamon and my mother Hesiona; my house is a noble one and my family is famous for its stock."
 
-626 As Hector recalled Hesiona's name and deeds, he said: "let us end our fight, since we share common blood," and he first gives Aeacides a golden sword. In return, Hector received the engraved belt that the warrior Ajax was wearing.
+626 As Hector remembered Hesiona's name and deeds, he said: "let us end our fight, since we share common blood," and he first gives Aeacides a golden sword. In return, Hector received the engraved belt that the warrior Ajax was wearing.
 
 631 After that, the Greek and Trojan crowds immediately departed as dark night covered the sky in darkness.
 
@@ -502,7 +502,7 @@
 
 640 Then, Idaeus, the messenger of the Trojans, brought the terms to the savage son of Atreus; but he did not agree to the gifts and would not listen to his words; he ordered Idaeus to depart from his camp.
 
-644 He obeyed and returned to the Trojan camp, since he had been scorned by the harsh enemy. @(Can't remember what troica is)
+644 He obeyed and returned to the Trojan camp, since he had been scorned by the harsh enemy.
 
 646 Meanwhile, the Danaans mourned their dead and built massive pyres. They placed all of the strong bodies of their fallen allies on the flames.
 
@@ -512,19 +512,19 @@
 
 650 As Titan's shining rays first brought light to the world, Jupiter called a council of the gods and warned them all not to go against his command that they not fight.
 
-653 He himself then glided down through the heavenly air and sat down on shadowy Mt. Ida.
+653 He himself then glided down through the heavenly air and sat down on the shadowy slopes of Mt. Ida.
 
-655 Then, he looked at the Trojan lines and held the golden scales, currently of equal weight, in his powerful right hand. He weighed the harsh fate of the Phrygians and the misfortunes of the Achaeans and found that the Greek calamities while waging grave war outweighed that of the Trojans. @ (still praeponderat gives me trouble. NOt sure exactly what this sentence says.)
+655 Then, he looked at the Trojan lines and held the golden scales, currently balanced, in his powerful right hand. He weighed the harsh fate of the Phrygians and the misfortunes of the Achaeans and found that the Greek calamities while waging grave war outweighed that of the Trojans. @ (still praeponderat gives me trouble. Not sure exactly what this sentence says.)
 
 # The Trojans attack the Greek camp
 
-659 Meanwhile, Priamides was riled up and attacked the Danaans in all his fury. He heavily oppressed them with all his strength, by all means the lone glory of the Phrygian people.
+659 Meanwhile, the son of Priam was riled up and attacked the Danaans in all his fury. He heavily oppressed them with all his strength, seeing as he was the lone glory of the Phrygian people.
 
 661 The Achaeans were thrown into turmoil and the Greek camp was filled by the commotion.
 
 663 Atrides was also enclosed within the walls and encouraged his allies to harden their wilting resolve in battle.
 
-665 Tydides first burst forth with fiery arms and went like a great whirlwind into the middle of the enemy.
+665 Tydides was the first to burst forth in his glowing armor and went like a great whirlwind into the middle of the enemy.
 
 667 Ill-fated Agelaus ran to meet him, brandishing a huge spear, but the great hero attacked him and thrust his sword through his stomach.
 
@@ -536,11 +536,11 @@
 
 676 His faithful comrades take him away from the bloodshed and support his faltering body.
 
-677 Hector wildly ran amok and terrified the enemy's lines with his violent sting.
+677 Hector ran about in a frenzy and terrified the enemy's lines with his deadly sword.
 
 679 The Danaans were thrown into confusion by the deaths of their men and turned back. The troops swiftly fled to their camp and reinforced the gates by putting down more oak.
 
-682 But the Phrygians began siege, since the Greeks were trapped within their ramparts. They keep watch on the walls and set them on fire.
+682 But the Phrygians sieged the camp, since the Greeks were trapped within their ramparts. They keep watch on the walls and set them on fire.
 
 684 The rest of the Trojan youth spread themselves out in the fields and indulged in wine to relax their minds from worry.
 
