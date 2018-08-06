@@ -554,29 +554,29 @@
 
 # A midnight mission
 
-696 The shadows of another day slowly passed under the gliding stars as the third part of that silent night continued. The Aetolian hero, by order of the Greeks, departed from camp and chose Ulysses to accompany him to search and study in the dim shadows of the night how confident the Trojans were, what drove them, and how many forces were prepared for battle.
+696 The shadows of another day slowly passed under the gliding stars as the third part of that silent night continued. The Aetolian hero, by order of the Greeks, departed from camp and chose Ulysses to accompany him to search and study in the dim shadows of the night how confident the Trojans were, what drove them, and the number of soldiers prepared for battle.
 
-703 And while they made their frightening journey through places that were especially scary at night, a man named Dolon appeared. Since he was a wise man, he had been sent by the Trojan youth to observe the Danaan strength and report back the feelings of both the leaders and the common soldiers.
+703 And while they made their frightening journey through places that were especially scary at night, a man named Dolon appeared. Since he was observant, he had been sent by the Trojan youth to look at the Danaan forces and report back the feelings of both the leaders and the common soldiers.
 
-707 When Ulysses, Diomedes' companion, saw him from far off, they hid and steathily concealed themselves behind some dense shrubs. Then, still hopeful in his vain journey, the Trojan Eumediades ran right before their hiding place. Diomedes hoped to overwhelm him and keep him from easily retreating to his camp.
+707 When Ulysses, Diomedes' companion, saw him from afar, they hid and steathily concealed themselves behind some dense shrubs. Then, still hopeful in his vain journey, the Trojan Eumediades ran right in front of their hiding place. Diomedes hoped to apprehend him and keep him from easily retreating to his camp.
 
-712 As Dolon ran past them, trusting his courage and strength, Diomedes and Ulysses jumped out and grabbed the young Dolon. He tried to run away and escape but they held onto him threatened him with their swords.
+712 As Dolon ran past them, trusting his courage and strength, Diomedes and Ulysses jumped out and grabbed the young Dolon. He tried to run away and escape but they held onto him and threatened him with their swords.
 
 715 He was thoroughly frightened and said: "please, spare me my life. That one thing is enough."
 
 716 But if you persist in your anger, what reward will you get from my death?
 
-718 But if want to know why I have come here during silent night: great Troy has promised to give me Achilles' chariot if we are able to take your treasures.
+718 If you want to know why I have come here during silent night: great Troy has promised to give me Achilles' chariot if we are able to take your treasures.
 
-720 I followed this promise and unlucky fell into this unfortunate situation in which you now see me.
+720 I followed this promise and unluckily fell into this unfortunate situation in which you now see me.
 
 722 Now I implore you by the powerful gods, by the sea, by the waves of dark Dis, not to take my life and cruelly murder me.
 
-725 You will receive these gifts for letting me go safely: I will explain to you king Priam's plans and the possessions of the Phrygians."
+725 You will receive these gifts for letting me go safely: I will explain to you king Priam's plans and the Phyrgian assets."
 
-727 After that, Diomedes and Ulysses learned of what the Trojans were preparing to do. They then drew their swords and cut the young man's throat.
+727 After that, Diomedes and Ulysses learned what the Trojans were preparing to do. They then drew their swords and cut the young man's throat.
 
-729 They went into Rhesus's tent and killed him while he was buried in sleep and wine, then robbed his body and killed his allies laying in the field.
+729 They went into Rhesus's tent and killed him while he was buried in sleep and wine, then robbed his body and killed his allies who were asleep in the field.
 
 732 After the sorrowful deed was done, they loaded the spoils on their backs and took some of the Thracian horses, which were sleek and beautiful beasts. These horses surpassed even Eurus in speed and could not be caught by any flying arrow. @(how to add these adjectives)
 
