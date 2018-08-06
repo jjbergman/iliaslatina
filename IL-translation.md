@@ -158,53 +158,53 @@
 
 167 First came Peneleus and the eager warrior Leitus, savage Arcesilaus and Prothoenor and Clonius, the Boeotians, who led fifty ships and coursed through the swelling tides using their strong oarsmen.
 
-171 Then Agamemnon, born of Mycenae's walls, whom warlike Greece chose as their leader, led a hundred ships filled with armed soldiers; and the fiery Menelaus followed with sixty ships, as did Agapenor in his wild rage.
+171 Then Agamemnon, born of Mycenae's walls, whom warlike Greece chose as their leader, led a hundred ships filled with armed soldiers; and the fiery Menelaus followed with sixty ships, as did wrathful Agapenor.
 
-176 Near these men was faithful Nestor, a man of wise sentiment and powerful counsel, along with his twin sons, who brought ninety ships armed for war.
+176 Near these men was faithful Nestor, a wise man of powerful counsel, along with his twin sons, who brought ninety ships armed for war.
 
 179 Schedius, a man of great virtue, and massive Epistrophus, the glory of the Myrmidons, both bulwarks in the savage war, plowed the tall waves along with forty prows, and Polypoetes and Leonteus led forty ships carrying brave soldiers.
 
-184 The leaders Euryalus and Sthenelus, along with the brave soldier Tydides, cut through the sea with their strong oars; these men loaded eighty ships with soldiers.
+184 The commanders Euryalus and Sthenelus, along with the brave soldier Tydides, cut through the sea with their strong oars; these men loaded eighty ships with soldiers.
 
-187 Powerful Ascalaphus and Ialmenus, both keen men, filled thirty ships with strong oarsmen, and Ajax, the bravest of the Locrians, led twice twenty ships, as did the son of Euhaemon. They were accompanied by Achilles, the wall of the Greeks, sailing fifty ships across his mother's seas.
+187 Powerful Ascalaphus and Ialmenus, both eager for war, filled thirty ships with strong oarsmen, and Ajax, the bravest of the Locrians, commanded forty ships, as did the son of Euhaemon. They were accompanied by Achilles, the defender of Greece, sailing fifty ships across his mother's seas.
 
-193 Phidippus and Antiphus, the Thessalonian youth came next, leading thrice ten prows cleaving the deep sea.
+193 Phidippus and Antiphus, the Thessalonian youth came next, commanding thirty prows across the deep sea.
 
-195 And Teucer cut through the waves with his three ships, while Tlepolemus the Rhodian took nine. Eumelus, a man of keen strength, followed these men, having set sail with one fewer ship than that of Salaminian Ajax, the son of Telamon.
+195 And Teucer cut through the waves with his three ships, while Tlepolemus the Rhodian took nine. Eumelus, a man of great strength, followed these men, having set sail with one fewer ship than that of Salaminian Ajax, the son of Telamon.
 
 199 And Prothous the Magnesian, son of Tenthredon, and also Elephenor, born in the great land of Euboea, and Meges the Dulichian, and Thoas, a man of great courage and strength, the son of Andraemon of the Aetolians, altogether led forty ships.
 
-204 And the wise man of Ithaca, Ulysses, led twice six ships, followed by Telamonian Ajax, a man of exceptional courage.
+204 And the wise man of Ithaca, Ulysses, commanded twelve ships, followed by Telamonian Ajax, a man of exceptional courage.
 
-206 With him came Guneus, a man of frightening strength, sailing twice eleven ships.
+206 With him came Guneus, a man of impressive strength, sailing twenty-two ships.
 
-208 Idomeneus and Meriones, both of Crete, came also, strengthened by forty ships; and Menestheus the Athenian, a man of famed heritage, led as many ships as Achilles could muster.
+208 Idomeneus and Meriones, both from Crete, came also, defended by forty ships; and Menestheus the Athenian, a man of noble heritage, led as many ships as Achilles.
 
-212 Fierce Amphimachus and Thalpius, born in Elis, and Polyxenus, a man of famed courage, along with Diores, altogether loaded twice twenty ships with soldiers.
+212 Fierce Amphimachus and Thalpius, born in Elis, and Polyxenus, a man of famed courage, along with Diores, altogether loaded forty ships with soldiers.
 
-215 Protesilaus and brave Podarces drove as many ships as Oileus Ajax led, all fitted for battle; and the son of Poeas brought seven armed ships. Near him followed Podalirius and Machaon, who cut through the wide sea with thrice ten prows.
+215 Protesilaus and brave Podarces steered as many ships as Oileus Ajax, all fitted for battle; and the son of Poeas brought seven armed ships. Near him followed Podalirius and Machaon, who cut through the wide sea with thrice ten prows.
 
 220 With all these men leading them, the Greeks led fourteen fewer than twelve hundred ships to the shores of Troy.
 
 222 The men quickly put the ships ashore and took to the field when the Saturnian father sent Priam a message from Iris to warn him that the brave Pelasgians had come to wage war.
 
-225 Without delay, Hector Priamides immediately took up arms, as was his father's command, and ordered all the Trojan youth to ready themselves for battle so he could lead them through the city's open gates.
+225 Without delay, Hector, the son of Priam, immediately took up arms, as his father had commanded, and ordered all the Trojan youth to ready themselves for battle so he could lead them through the city's open gates.
 
-228 A shiny golden helmet covered each side of his youthful head, a breastplate protected his chest and a shield adorned his left side. He wielded a spear in his right hand and a sword hung at his side; also, shining greaves, befitting of Hector, covered his long legs.
+228 A shiny golden helmet covered his youthful head, a breastplate protected his chest and a shield adorned his left side. He wielded a spear in his right hand and a sword hung at his side; also, shining greaves, that suited Hector, covered his long legs.
 
-233 A more beautiful man followed after him, who was at that time mighty in arms: the cause of the war, Paris, the calamitous ruin of his homeland. Deiphobus and Helenus and brave Polites followed as well, along with sacred Aeneas, most certainly the child of Venus, and Archelochus and savage Acamas, the sons of Antenor; indeed, both Pandarus, the noble descendant of Lycaon, and Glaucus, a man of great courage in battle, came to fight, as did Amphius and Adrastus and Asius and Pylaeus.
+233 A more beautiful man followed after him, who was at that time mighty in arms: the cause of the war, the calamitous ruin of his homeland, Paris. Deiphobus and Helenus and brave Polites followed as well, along with sacred Aeneas, undeniably the child of Venus, and Archelochus and savage Acamas, the sons of Antenor; indeed, both Pandarus, the noble descendant of Lycaon, and Glaucus, a man of great courage in battle, came to fight, as did Amphius and Adrastus and Asius and Pylaeus.
 
 240 Amphimachus and Nastes, each great men, also came, with the brave leaders Odius and massive Epistrophus, as did savage Euphemus and Pyraechmes, famous in his time, with whom came Mesthles and Antiphus and the great fighter Hippothous and Acamas and Pirous, together with Chromius and Ennomus, the sons of Arsinous, both of them in their prime, followed by Phorcus and great Ascanius, and also Sarpedon, the renowned offspring of Jupiter, and Coroebus, born in that famed land.
 
-250 Neptunian Troy defended herself with the help of these leaders, and would have foiled the plot of the Greeks, if not for the fates.
+250 Neptunian Troy defended herself with the help of these leaders. She would have foiled the plot of the Greeks, if not for the fates.
 
 # Hector Proposes a Duel
 
-252 And now both battle lines were standing in their resplendent armor, when Paris, the deadly flame and destruction of Troy, saw a fully-armed Menelaus standing in the opposing army. Paris runs back frantically to his allies as if he had seen a snake and was terrified.
+252 And now both battle lines were standing in their shining armor, when Paris, the deadly ruin of Troy, saw a fully-armed Menelaus standing in the opposing army. Paris runs back frantically to his allies as if he had seen a snake and was terrified.
 
-256 Hector saw him in his shameless disarray and said: "You, our country's eternal disgrace and our family's dishonor, why are you turning your back on this?"
+256 Hector saw him in his terrified state and said: "You, our country's eternal disgrace and our family's dishonor, why are you turning your back on this?"
 
-259 Once, you did not hesitate to violate the bed of a host, whose weapons you are fleeing and force you fear.
+259 Once, you did not hesitate to violate the bed of a host, whose weapons you are fleeing and whose force you fear.
 
 261 Where is your courage? Where is your strength that we once knew in different competitions and games?
 
@@ -214,43 +214,43 @@
 
 264 Mars likes a tough soldier.
 
-265 While you sleep with your love, we must wage war and shed our blood in our enemy's midst.
+265 While you sleep with your love, we must wage war and shed our own blood fighting the enemy.
 
-267 Let unwearied Atrides fight you and match your strength on an equal field as the Danaans and Phrygians watch without any fighting.
+267 Let unwearied Atrides fight you and match your strength on an equal field while the Danaans and Phrygians watch without any fighting.
 
-269 After a treaty is agreed upon, you must bring your force to bear against him and settle the dispute by the sword."
+269 After a treaty is agreed upon, you must fight against him and settle the dispute by the sword."
 
 271 He finished speaking.
 
-271 The Priamian hero said a few words in return: "why do you insult me so undeservingly, brother, pride of my country?"
+271 Priam's heroic son said a few words in return: "why do you insult me so undeservingly, brother, pride of my country?"
 
-273 It is untrue that my spouse, my stolen luxury, is greater than the honor of my courage. I do not refuse to test my strength in battle against his, as long as my wife goes to the victor without further bloodshed."
+273 It is untrue that my spouse, my stolen luxury, is greater than the honor that courage brings. I do not refuse to test my strength in battle against his, as long as the wife goes to the victor without further bloodshed."
 
-277 Hector reported this conversation; the Greeks agreed with the plan.
+277 Hector relayed the message; the Greeks agreed with the plan.
 
 # The Duel of Paris and Menelaus
 
-278 Immediately, Priam was summoned to carry out the proper sacrifices and seal the treaties.
+278 Immediately, Priam was summoned to carry out the proper sacrifices and sign the treaty.
 
-279 After that, each group departed, cast aside their weapons, and cleared the field.
+279 After that, each side departed, cast aside their weapons, and cleared the field.
 
 281 Meanwhile, beautiful Alexander appeared from the Trojan crowd, easily spotted because of his shield and spear.
 
-283 Menelaus stood against him, gleaming in his armor, and said "Let us begin our fight. You will no longer enjoy the company of my wife, and you will mourn the day you took her, as Jupiter is my witness."
+283 Menelaus stood opposite him, gleaming in his armor, and said "Let us begin our fight. You will no longer enjoy the company of my wife, and you will mourn the day you took her, as Jupiter is my witness."
 
-287 As soon as he had finished speaking, the bitter man rushed against his enemy.
+287 As soon as he had finished his bitter speech, he rushed against his enemy.
 
-288 Paris repelled his approach with a strong blow and took a few quick step in retreat. He then threw a quivering spear from afar, but Atrides avoided it. In turn, he threw a spear which would have pierced the Phrygian thief's body, if not for the seven-fold iron mail which covered his brood chest in the back.
+288 Paris repelled his approach and took a few quick steps in retreat. He then threw a spear from afar in retaliation, but Menelaus avoided it. In turn, he threw a spear that would have pierced the Phrygian thief's body, if not for the seven-fold iron mail which covered his broad chest in the back.
 
-294 There was an outcry all around; then each man stood against the other, as their helmets crashed together, their feet kicked at the other's heels, and their swords whistled and vibrated; both men were protected by their brilliant weapons and armor.
+294 There was an outcry all around; then each man stood against the other, as their helmets crashed together, they kicked at each other's heels, and their swords whistled and vibrated; both men were protected by their brilliant weapons and armor.
 
 298 They were not unlike strong bulls, who wage war over a pretty mate and, as they fight, their loud mooing fills the air.
 
-300 For a long time they used their rough swords to try to cut the other man. But, when Atrides remembered his stolen bride, he closed in and overwhelmed the Dardanian youth.
+300 For a long time they used hard iron to try to cut the other man. But, when Atrides remembered his stolen bride, he closed in and overwhelmed the Dardanian youth.
 
-302 Paris retreated backwards as Menelaus threatened him from above with his swordplay. However, his splendid sword shattered when he struck the edge of Paris's helmet. The Greeks groaned in dismay.
+302 Paris retreated backwards as Menelaus threatened him from above with his blade. However, his splendid sword shattered when he struck the edge of Paris's helmet. The Greeks groaned in dismay.
 
-306 Then Menelaus truly flew into a rage, though his hand lacked a sword, and he knocked the young Paris over and dragged his helmet to his allies, @holding it as if he had won. If Cytherea had not covered Paris in a dark mist and @broken the strong strap on his chin, that would have been Paris's last day.
+306 Then Menelaus truly flew into a rage, though his hand lacked a sword, and he knocked the young Paris over and dragged him by the helmet, acting as if he had already won. If Cytherea had not covered Paris in a dark mist and broken the strong strap on his chin, that would have been Paris's last day.
 
 311 Menelaus dragged the shining golden helmet and angrily threw it to the chiefs. He then again returned to the fight and threw a huge spear with all his strength to finish off the Phrygian, but Venus snatched Paris away from his enemy and brought him into his bed, inlaid with tortoise shell.
 
