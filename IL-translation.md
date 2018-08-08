@@ -592,13 +592,13 @@
 
 743 A cloud of spears rained on both sides and the sound of iron on iron filled the air in the muddled chaos.
 
-745 The disorderly lines approached each other and a river of sweat and blood flowed.
+745 The thick lines approached each other and a river of sweat and blood flowed.
 
-747 Finally, the Danaan king became embroiled in his burning anger and shed the blood of Antiphon, who was knocked to the ground by his gaping wound. He then likewise killed Pisandrus and his brother, Hippolochus, who was running to the fight as well; sword in hand, he approached Iphidamas after that.
+747 Finally, the Danaan king became enraged and shed the blood of Antiphon, who was knocked to the ground with a gaping wound. He then likewise killed Pisandrus and his brother, Hippolochus, who was running to the fight as well; afterwards, sword in hand, he approached Iphidamas.
 
-751 He struck the king's hand with his spear; he became more enraged from the wound and pursued the fleeing son of Antenor, savagely getting vengeance for his injury.
+751 He struck the king's hand with his spear; he became more enraged from the wound and pursued the fleeing son of Antenor to get vengeance for his injury.
 
-754 Hector, the son of Priam, then entered the battle. He was provoked by his bitter anger to drive back and strike the Greek soldiers in all directions.
+754 Hector, the son of Priam, then entered the battle. He was provoked by his bitter anger to drive back all the hard-pressed Greek soldiers.
 
 756 Nor did Paris refrain from striking down the enemy troops, as he shot an arrow which wounded Eurypylus's leg.
 
@@ -606,9 +606,9 @@
 
 758 The Trojans pressed on as the Pelasgi fled to their camp since their forces were exhausted. They shored up the wall using huge beams.
 
-760 Then Mars-like Hector hurled a rock, which broke through the gates and loosened the iron-enforced walls.
+760 Then Mars-like Hector hurled a rock, which broke through the gates and loosened the iron-reinforced walls.
 
-762 The Phrygians rushed through the opening and slew the Greeks standing near the threshold. They then struck down the troops on the rampart while others placed ladders on the walls and hurled torches.
+762 The Phrygians rushed through the opening and killed the Greeks standing near the threshold. They then struck down the troops on the rampart while others placed ladders on the walls and hurled torches.
 
 765 Victory increased their strength.
 
@@ -628,17 +628,17 @@
 
 773 The enemy ran rampant all over the place.
 
-774 Asius fell by the hand of Idomeneus; Hector killed fierce Amphimachus, and Alcathous, Anchises' son-in-law, also met his end, slain by the sword of the noble leader Rhytieus.
+774 Asius fell at the hands of Idomeneus; Hector killed fierce Amphimachus, and Alcathous, Anchises' son-in-law, also met his end, slain by the sword of the noble leader Rhytieus.
 
-777 Then fiery Deiphobus struck Ascalaphus with his spear and he drowned in the sea.
+777 Then fiery Deiphobus struck Ascalaphus with his spear and he drowned.
 
-779 Hector felt rage in his heart and fought ferociously across the battle. Great Ajax threw a massive rock which struck him and knocked him to the ground.
+779 Hector felt rage in his heart and fought ferociously. Great Ajax threw a massive rock which struck him and knocked him to the ground.
 
 782 The Trojan soldiers ran to him and soaked the young man's wounds in the Xanthus river while he vomited blood. @(does he vomit into the river or do they soak him in the river)
 
 784 Then they returned again to the fight; there is a great amount of bloodshed on both sides and the ground ran red with blood.
 
-786 Polydamas powerfully struck down Prothoenor, Telamonian Ajax killed Archelochus Antenorides, and Acamas felled Promachus the Boeotian, but in turn was laid low by the hand of savage Peneleus.
+786 Polydamas struck down Prothoenor with a powerful blow, Telamonian Ajax killed Archelochus Antenorides, and Acamas felled Promachus the Boeotian, but in turn was laid low by the hand of savage Peneleus.
 
 789 The Priamian soldiers fell back, but then came back stronger and redoubled their efforts in the war with the Achaeans, forcing the Pelopeian soldiers to flee.
 
@@ -660,21 +660,21 @@
 
 # Patroclus' deception
 
-805 Patroclus could not bear to watch any longer as his friends were killed. He suddenly emerged on the field wearing Achilles' armor, thoroughly terrifying the Trojans in his false appearance.
+805 Patroclus could not bear to watch any longer as his friends were killed. He suddenly emerged on the field wearing Achilles' armor, thoroughly terrifying the Trojans with his false appearance.
 
-808 Those who had just been throwing the Danaans into confusion and fiercely fighting now felt fear in their hearts and fled; bold Patroclus pursued those who were fleeing and created chaos in their ranks. He shed the blood of men across the huge army and greatly wounded Sarpedon. In his fury he passed by several men @(is this really what it means? what is cursu doing) and turned the tide of battle under the terrifying guise of Achilles.
+808 Those who had just been throwing the Danaans into confusion and fiercely fighting now felt fear in their hearts and fled; bold Patroclus pursued those who were fleeing and created chaos in their ranks. He shed the blood of men across the huge army and greatly wounded Sarpedon. In his fury he passed by several men and turned the tide of battle under the terrifying guise of Achilles.
 
-814 When hot-blooded Hector spotted him slaughtering his allied troops and running amok in their ranks. Looking monstrous in his great armor, Hector drew on his courage and fiercely ran to meet him. He loudly rebuked him, saying: "Come this way, turn your course to me, bravest Achilles!"
+814 Then hot-blooded Hector spotted him slaughtering his allies and running amok in their ranks. Looking monstrous in his great armor, Hector drew on his courage and fiercely ran to meet him. He loudly rebuked him, saying: "Come this way, come against me, bravest Achilles!"
 
-819 Now you will know what Troy's vengeful right hand is capable of and how strong bravest Hector is in war.
+819 Now you will know what Troy's vengeful right hand is capable of and how strong brave Hector is in war.
 
-821 Although Mars himself protects you with his arms, nevertheless I will destroy you with my own hand despite him."
+821 Even if Mars himself protects you with his arms, nevertheless I will destroy you with my own hand despite him."
 
-823 Patroclus was silent and ignored the threats and strong words to continue his deceit as the man whom he was pretending to be. @(Too loose? credatur. Literal is so that he might be believed as the true Achilles, whom he faked.)
+823 Patroclus was silent and ignored the threats and strong words so that he might be believed as the true Achilles, who he was pretending to be.
 
-825 Then the Dardanian attacked first and hurled a spear with all his strength, but it fell to the ground. Patroclus swiftly removed it and threw it back, along with another gift: he hurled an unnaturally large rock, which struck Hector's shield and settled on the green grass.
+825 Then the Dardanian attacked first and hurled a spear with all his strength, but it fell to the ground. Patroclus swiftly picked it up and threw it back, along with a gift: in return, he hurled an unnaturally large rock, which struck Hector's shield and settled on the green grass.
 
-829 Then they drew their swords and embroiled themselves in hand to hand combat until Trojan Apollo revealed the lying face of the fake Achilles and exposed him. When the great warrior Hector caught on to the fact that Patroclus was fighting in false arms, he charged at him, pierced his chest with his naked sword @(naked go with chest or sword), and stripped off his Vulcan arms as the victor.
+829 Then they drew their swords and became entangled in hand to hand combat until Trojan Apollo revealed the lying face of the fake Achilles and exposed him. When the great warrior Hector caught on to the fact that Patroclus was fighting in false arms, he charged at him, pierced his exposed chest with his sword and stripped off his Vulcan arms as the victor.
 
 836 Telamonian Ajax grabbed his dead body and protected it with his shield.
 
@@ -684,11 +684,11 @@
 
 839 Meanwhile, young Nestorides and his sad companions carried the wretched corpse into camp.
 
-841 Then, as the horrible news reached Pelides' hears, he became upset and grew pale as all his warmth left his body; while he was crying, Aeacides tied his mother's mantle to Patroclus and mourned his comrade's sorrowful death.
+841 Then, as the horrible news reached Pelides' hears, he became upset and grew pale as all warmth left his body; while he was crying, Aeacides tied his mother's mantle to Patroclus and mourned his comrade's sorrowful death.
 
 845 He scratched at his face and dirtied his beautiful hair in the dust. He tore his clothes from his chest and lay on top of his dead friend while he poured forth bitter laments and kissed his body.
 
-849 When his groaning and tears subsided, he said: "you will not be able to celebrate my friend's death without retribution, Hector. You are a boisterous man and will pay a steep price for my grief. You will die in those arms of yours in which you currently boast your victory and your blood will flow in the ground."
+849 When his groaning and tears subsided, he said: "you will not be able to celebrate my friend's death without retribution, Hector. You and your violence will pay a steep price for my grief. You will die with those arms of yours in which you currently boast your victory and your blood will spill onto the ground."
 
 # Achilles receives new armor
 
@@ -696,15 +696,15 @@
 
 855 She left the sea and immediately begged Vulcan for help.
 
-857 Vulcan Mulciber ignited the fires of Aetna in the hot furnaces and formed the tawny gold with his mighty hammer. @(too loose? do blows for ictibus?)
+857 Vulcan Mulciber ignited the fires of Aetna in the hot furnaces and formed the tawny gold with strong blows.
 
 858 Then he brought back the finished armor, which had been made with his divine expertise, and gave it to Thetis; great Achilles put on the armor and turned his cruel face to look at the shield.
 
-862 On it, the god of fire had engraved the sky and stars and had made the lands of the Ocean, surrounded everywhere by the watery nymphs, and the marvelous sea castles of the Nereids along with Nereus. He also carved the changing stars and laid out the different times of night, along with the four parts of the world. He showed how far the north was from the south and how far away the red sun sets from where it rises. He laid out where Lucifer and Hesperus, both names for the same star, rose in the sky with their horses. He showed how far the concave moon traveled in its orbit @(too modern?) and where it lit up the sky as its shining lamp; he also included the seas along with their gods: great Nereus and old Oceanus and fickle Proteus, as well as the wild Tritones and Doris, the lover of the tide; he also displayed the watery Nereids with marvelous artistry.
+862 On it, the god of fire had engraved the sky and stars and had made the lands of the Ocean, surrounded everywhere by the watery nymphs, and the marvelous sea castles of the Nereids along with Nereus. He also carved the changing stars and laid out the different times of night, along with the four parts of the world. He showed how far the north was from the south and how far away the red sun sets from where it rises. He laid out where Lucifer and Hesperus, both names for the same star, rose in the sky with their horses. He showed how far the crescent moon traveled in its orbit and where it lit up the sky as its shining lamp; he also included the seas along with their gods: great Nereus and old Oceanus and ever-changing Proteus, as well as the wild Tritones and Doris, the lover of the tide; he also displayed the watery Nereids with marvelous artistry.
 
 875 The land had forests and horrifying wild monsters and rivers and mountains and towns with high walls in which people debate and enforce their laws and old codes; a judge that was fair to each side sat and heard cases in a calm state of mind.
 
-880 On another part, chaste girls sang Paeans and gave a beautiful performance while a hand beat a drum; Apollo strummed simple chords on his lyre with his thumb and played the seven modes on the reeds: they composed songs that reproduced the motion of the world.
+880 On another part, chaste girls sang paeans and gave a beautiful performance with a drum accompanying them; Apollo strummed simple chords on his lyre with his thumb and played the seven modes on the reeds: they composed songs that reproduced the motion of the world.
 
 885 Other people tilled the fields, young bulls plowed the arable land @(gravia is the issue). A strong harvester reaped the matured grains and a dirty vineyard worker was glad that his grapes were finally pressed.
 
@@ -714,7 +714,7 @@
 
 # Achilles finally joins the battle
 
-892 Looking ornate in his newly gifted arms, the Thetideian hero went into the middle of the battle like a tremendous whirlwind. Juno and chaste Pallas offered him their strength and gave him courage.
+892 Wearing his newly gifted arms, the Thetideian hero went into the middle of the battle like a tremendous whirlwind. Juno and chaste Pallas provided him their strength and gave him courage.
 
 895 The Cytherian hero ran to meet him, but although he was not of the same strength as Aeacides, nor his equal, nevertheless his anger compelled him to attack the unconquerable Achilles.
 
@@ -734,17 +734,17 @@
 
 920 Juno foresaw this and assisted him so that he wouldn't yield to the blows of the rapid water. The sacred gods then began to fight among themselves.
 
-923 Wild Aeacides again drove back the Phrygian troops, slaughtering great numbers of them. His ardor restored, he rejoined the deadly fight and embroiled himself in the horrible battle.
+923 Wild Aeacides again drove back the Phrygian troops, slaughtering great numbers of them. His passion for battle came back as he rejoined the deadly fight and became entangled in the horrible battle.
 
 926 No force could move him, nor did his raging heart tire from all the fighting; success magnified his strength.
 
-928 The Trojans faltered, trembling with fear. @(need a transition word for the ppl or no) They fled to the walls of the city because they felt their luck had run out. They then shored up the gate's defenses by placing an oak beam on it.
+928 The Trojans faltered, trembling with fear. They fled to the walls of the city because they felt their luck had run out. They then shored up the gate's defenses by placing an oak beam on it.
 
 # Hector decides to fight Achilles
 
 931 Hector remained the one hope of salvation for the Trojans. Neither the fear of harsh death nor the prayers of his father could hold him back from flying into a rage and wishing to fight with great Achilles.
 
-935 When he saw him in the distance, clothed in his heavenly arms, Tritonian Pallas appeared before him and he became scared. The unlucky man ran around the walls, since the gates were closed, and the Nereian hero followed him.
+935 When he saw him in the distance, clothed in his heavenly arms, Tritonian Pallas appeared before him, frightening him. The unlucky man ran around the walls, since the gates were closed, and the Nereian hero followed him.
 
 939 It was like a dream, when anger frightens your heart @(work on this whole sentence, but this part especially), and one man follows close behind while the other flees- both hurry, and the exertion slows their speed. In such a way, Hector and Achilles were able to pursue the course of action that was dangerous to both men. There was no rest: fear stirred the anger of both sides.
 
@@ -754,7 +754,7 @@
 
 951 The unconquered young men threw their spears then ran to fight in hand to hand combat.
 
-952 One man would bring the thunder @(too colloquial?) in his great arms, the other would block his attack with his strong shield. Then they would exchange fierce blows in successive engagements.
+952 One man would thunder in his mighty arms, the other would block his attack with his strong shield. Then they would exchange fierce blows in successive engagements.
 
 955 Sweat flowed in streams as grim sword clashed with sword, locked foot clung to foot and hand to hand.
 
@@ -776,7 +776,7 @@
 
 970 Which god should he invoke or pray to?
 
-971 His strength faded from his body his force failed him.
+971 His strength faded from his body as his force failed him.
 
 972 His hand could scarcely hold his sword, dark night covered his vision, and no aid was coming to help the exhausted soldier.
 
@@ -790,7 +790,7 @@
 
 979 Then unlucky Hector, as his strength dissipated, said: "Please, give my body back to my poor parents. My wretched father will pay a lot of gold for it."
 
-982 As the victor, you will receive many rewards.
+982 Because you are the victor, you will receive many rewards.
 
 982 The son of Priam asks this of you, as does Priam himself, the leader of all leaders, the only one whom Greece feared.
 
@@ -818,9 +818,9 @@
 
 1004 Meanwhile, victorious Aeacides buried the corpse of his friend whom he had so bitterly mourned. He led the procession at his funeral.
 
-1006 Then he dragged Hector's wretched body around the burial mound and declared that their be games to honor his lifeless ashes.
+1006 Then he dragged Hector's wretched body around the burial mound and declared that there should be games to honor his lifeless ashes.
 
-1008 Tydides overcame all in the in the race, including fierce Meriones; Ajax was conquered in the wrestling match: his strength was beaten by cunning Laertius. Epeus beat all his challengers in boxing. Polypoetes, a strong discus thrower, overcame the others in that competition and Meriones won archery.
+1008 Tydides overcame all others in the race, including fierce Meriones; Ajax was conquered in the wrestling match: his strength was beaten by cunning Laertius. Epeus beat all his challengers in boxing. Polypoetes, a strong discus thrower, overcame the others in that competition and Meriones won archery.
 
 1013 Finally, after the contest was over, Achilles returned to camp accompanied by the crowds of soldiers.
 
@@ -830,7 +830,7 @@
 
 1019 The whole Phrygian cause lay in ruins along with Hector, and his tired old father, shattered and pitiable, lay in ruins as well. His wife, his multitude of children and the glory of his great kingdom were not able to keep him, forgetting even his life, from going unarmed and alone to the camp of his unconquered enemy.
 
-1025 The Greek chiefs were surprised and Aeacides himself was taken aback by the courage of the sad old man. He prostrated himself at Achilles feet, stretched his trembling hands to the stars, and said these things: "Achilles, bravest of the Greek race, enemy of my kingdom, you alone were feared by the beaten Dardanians, your cruelty has been felt too much in my old age."
+1025 The Greek chiefs were surprised and Aeacides himself was taken aback by the courage of the sad old man. He prostrated himself at Achilles' feet, stretched his trembling hands to the stars, and said this: "Achilles, bravest of the Greek race, enemy of my kingdom, you alone were feared by the conquered Dardanians, your cruelty has been felt too much in my old age."
 
 1031 Now I beg you to be merciful and take pity on a broken man praying at your feet. Please, take these gifts which I have brought you in exchange for the body of my wretched son.
 
@@ -844,13 +844,13 @@
 
 1040 In Hector's death you have conquered the Dardan kingdom and Priam.
 
-1041 As the victor, consider the lot of humankind and examine the various misfortunes that befall leaders."
+1041 The victor should consider the lot of humankind and examine the various misfortunes that befall leaders."
 
 1043 Finally, Achilles was moved by his prayers, so he lifted the old man from the ground and returned Hector's bloodless corpse to the father.
 
 # Hector's funeral
 
-1045 After that, Priam took his offerings back with him to Troy and, according to custom, he prepared the sorrowful funeral and led his final burial.
+1045 After that, Priam took his offerings back with him to Troy and, according to custom, he prepared the sorrowful funeral and conducted his final rites.
 
 1048 Then a pyre was constructed, upon which twelve bodies of Greek soldiers and horses were placed, along with chariots and trumpets and shields, empty helmets and bright spears. @(bright? maybe should use still or not thrown anymore something of that nature)
 
@@ -860,7 +860,7 @@
 
 1055 The youths tearfully cried aloud.
 
-1056 They understood that Ilion herself was burning in those flames.
+1056 They understood that Ilion was burning in those flames.
 
 1057 During all this, Andromache was grieving and tearing at her chest. She ran forward, hoping to hurl herself into the middle of the fire while holding Astynax, but her attendants, as commanded, grabbed her before she could do so.
 
@@ -868,8 +868,8 @@
 
 # Epilogue
 
-1063 Calliope, stop this course and put an end to my work. Guide the ship of your poet, whom you now see approaching the shore with just a few oars and reaching the harbor, mighty Homer's finish line.
+1063 Calliope, stop this course and put an end to my work. Guide your poet's ship, which you now see approaching the shore with just a few oars and reaching the harbor: mighty Homer's finish line.
 
-1067 Attendant Muses, let go of the ropes; divine one, whose virgin locks are wreathed with laurel, put down your lyre.
+1067 Attendant Muses, lower the ropes; divine one, whose virgin locks are wreathed with laurel, put down your lyre.
 
 1069 Be present, illustrious Pallas, and you, Phoebus, look with favor upon your poet now that this voyage has ended.
